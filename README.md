@@ -1,5 +1,3 @@
-# playlot-maps
-
 Custom sandbox maps for [Playlot](https://github.com/zees-games/game-playlot), as JSON documents: boxes, a spawn, and the places a player is not meant to reach. Playlot loads them as custom maps.
 
 ## Using it
