@@ -3,7 +3,7 @@
 # as gamemann/game-playground-maps. A server owner names this pack for game-playlot in cfg/content.yml; the
 # server mounts it and sends it to every player, because a playground client builds the map itself.
 #
-# It signs nothing and publishes nothing itself; see modcommunity/dot-ci.
+# It signs nothing and publishes nothing itself; see gamespice-platform/ci.
 name: Release
 
 on:
@@ -22,7 +22,7 @@ jobs:
 
     release:
         needs: check
-        uses: modcommunity/dot-ci/.github/workflows/release.yml@v1.3.14
+        uses: gamespice-platform/ci/.github/workflows/release.yml@v1.3.14
         permissions:
             contents: write
         with:
