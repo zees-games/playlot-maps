@@ -1,0 +1,15 @@
+# config name (import_bsp.py CONFIGS key)	source BSP, relative to the map source root (default ~/projects/mapsrc, MAPSRC overrides)
+asheville	maps/original/rp_asheville/rp_asheville.bsp
+balkans	maps/original/gm_balkans/gm_balkans.bsp
+bigisland	maps/original/gm_bigisland/gm_bigisland.bsp
+boreas	maps/original/gm_boreas/gm_boreas.bsp
+deadcity	maps/original/rp_deadcity/rp_deadcity.bsp
+fork	maps/original/gm_fork/gm_fork.bsp
+mallparking	maps/original/gm_mallparking/gm_mallparking.bsp
+mountain_resort	maps/original/gm_mountainresort/gm_mountainresort.bsp
+rooftops	maps/original/ttt_rooftops_2016_v1/ttt_rooftops_2016_v1.bsp
+shambles	maps/original/gm_shambles/gm_shambles.bsp
+smallbase	pg/f/gm_smallbase.bsp
+southside	maps/original/rp_southside/rp_southside.bsp
+valley	maps/original/gm_valley/gm_valley.bsp
+vyten	maps/original/gm_vyten/gm_vyten.bsp
