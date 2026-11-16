@@ -213,14 +213,14 @@ Every texture of this map is a free replacement; the original map's textures and
 - lib/dm_concretepier: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_cooling_tank: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/cooling_tank.py
 - lib/dm_dockbroken: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py
-- lib/dm_dockfenderhalf: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_dockfenderlong: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_dockfendersquare: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_dockpile: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_dockpilecluster: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_dockpileclustershort: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_dockpileshort: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_dockpiletall: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_dockfenderhalf: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_dockfenderlong: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_dockfendersquare: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_dockpile: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_dockpilecluster: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_dockpileclustershort: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_dockpileshort: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_dockpiletall: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
 - lib/dm_dockwreck: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_dockwrecklong: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_dockwrecksquare: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
@@ -239,10 +239,10 @@ Every texture of this map is a free replacement; the original map's textures and
 - lib/dm_indoorbin: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py
 - lib/dm_ironfinial: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_lampcluster: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
-- lib/dm_latticetower: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_lever: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_latticetower: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_lever: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
 - lib/dm_lighttroffer: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
-- lib/dm_linecrossarm: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_linecrossarm: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
 - lib/dm_panelvan: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py
 - lib/dm_pipecluster: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
 - lib/dm_pipeclustertall: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/industrial.py
@@ -251,21 +251,21 @@ Every texture of this map is a free replacement; the original map's textures and
 - lib/dm_pipestraight: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
 - lib/dm_power_box: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/power_box.py
 - lib/dm_railsignal: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
-- lib/dm_roofdish: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py
-- lib/dm_roofdome: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_roofstackrow: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
-- lib/dm_rooftophvac: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_roofdish: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py
+- lib/dm_roofdome: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_roofstackrow: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_rooftophvac: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
 - lib/dm_rubbish_pile: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/rubbish_pile.py
 - lib/dm_scaffoldbay: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_signpole: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_speakercluster: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py
-- lib/dm_sprinklerpipe: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_sprinklerpipe: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
 - lib/dm_stationarch: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_stationbracket: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_stationfinial: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_stationlamp: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_steeltrestle: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
-- lib/dm_trackmarker: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_trackmarker: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py
 - lib/dm_traincar: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py
 - lib/dm_truss: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
 - lib/dm_utilitypole: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py

@@ -1800,7 +1800,7 @@
    "name": "lib/dm_dockfenderhalf",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py",
    "source": "dot-map Blender model",
    "attribution": false,
    "uses": 72
@@ -1860,7 +1860,7 @@
    "name": "lib/dm_roofdish",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py",
    "source": "dot-map Blender model",
    "attribution": false,
    "uses": 1
