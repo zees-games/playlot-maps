@@ -1787,6 +1787,16 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_dockfenderhalf",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 72
+  },
+  {
+   "kind": "model",
    "name": "lib/dm_ductrun",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
@@ -1873,7 +1883,7 @@
    "url": "https://github.com/gamespice-platform/map",
    "source": "Modelled for Gamespice map",
    "attribution": false,
-   "uses": 101
+   "uses": 35
   },
   {
    "kind": "model",
@@ -1964,16 +1974,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 7
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_exterior_aircon_unit",
-   "author": "Monsta3D",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/exterior_aircon_unit",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 6
   },
   {
    "kind": "model",
