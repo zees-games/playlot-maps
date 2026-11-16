@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .DS_Store
 .godot/
+# the original variant (tools/import_bsp.py --orig) carries Valve and author textures: kept in private storage, never in this public repo
+maps/*_orig.json
+maps/world/*_orig/
