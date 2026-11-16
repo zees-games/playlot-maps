@@ -4,15 +4,15 @@
  "map": "gm_fork",
  "sha256": "a2e3dadf59e4c2aa62d38785a0f542b6eb612524ff0f6e6d70d34d61b51af52a",
  "textures": {
-  "looked_up": 257,
-  "drawn": 259,
+  "looked_up": 293,
+  "drawn": 274,
   "by_tier": {
-   "addon": 120,
-   "default": 137
+   "addon": 121,
+   "default": 172
   },
   "free_by_tier": {
-   "addon": 239,
-   "default": 19
+   "addon": 249,
+   "default": 24
   },
   "nearest_photo": [
    "brick/brickwall031b",
@@ -87,6 +87,15 @@
    "nature/cliff_path01a",
    "nature/forest_grass_01",
    "nature/gravelfloor001a",
+   "overlays/dirtartifacts02a",
+   "overlays/dirttrack01a",
+   "overlays/dirttrack01b",
+   "overlays/garagegroundmarking01f",
+   "overlays/gravelpath01a",
+   "overlays/gravelpath01b",
+   "overlays/road_dirt_01a",
+   "overlays/road_dirt_01b",
+   "overlays/sandtrack02b",
    "plaster/plasterceiling003a",
    "plaster/plasterwall003b",
    "plaster/plasterwall008",

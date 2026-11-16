@@ -257,6 +257,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Road008A",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Road008A",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 18
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Tiles086",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -323,7 +333,7 @@
    "url": "https://polyhaven.com/a/bicolour_gravel",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 268
+   "uses": 292
   },
   {
    "kind": "texture",
@@ -343,7 +353,7 @@
    "url": "https://polyhaven.com/a/flower_scattered_dirt",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 119
+   "uses": 203
   },
   {
    "kind": "texture",
@@ -773,7 +783,7 @@
    "url": "https://ambientcg.com/view?id=MetalPlates015A",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 5
+   "uses": 7
   },
   {
    "kind": "texture",
@@ -1233,7 +1243,7 @@
    "url": "https://polyhaven.com/a/brown_planks_05",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 2
+   "uses": 3
   },
   {
    "kind": "texture",
@@ -1457,16 +1467,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Road008A",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Road008A",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 9
-  },
-  {
-   "kind": "texture",
    "name": "pbr_PaintedMetal014",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -1477,6 +1477,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_damp_beach_sand_02",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/damp_beach_sand_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 9
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Metal022",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -1484,6 +1494,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 5
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Ground077",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Ground077",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
   },
   {
    "kind": "texture",
