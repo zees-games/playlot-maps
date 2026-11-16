@@ -1,0 +1,303 @@
+# Texture credits
+
+Every texture of this map is a free replacement; the original map's textures and models are not used.
+
+- pbr (pbr_plastered_wall_04): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/plastered_wall_04
+- pbr (pbr_coral_fort_wall_01): polyhaven, Dimitrios Savva, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/coral_fort_wall_01
+- pbr (pbr_Metal053B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal053B
+- pbr (pbr_Tiles120): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles120
+- pbr (pbr_Concrete008): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete008
+- pbr (pbr_Concrete036): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete036
+- pbr (pbr_Facade015): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Facade015
+- pbr (pbr_rough_plaster_brick_04): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/rough_plaster_brick_04
+- pbr (pbr_Grass001): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Grass001
+- pbr (pbr_corrugated_iron): polyhaven, Jenelle van Heerden, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/corrugated_iron
+- pbr (pbr_Metal061B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal061B
+- pbr (pbr_clay_roof_tiles_03): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/clay_roof_tiles_03
+- pbr (pbr_Marble018): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Marble018
+- pbr (pbr_climbing_wall_02): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/climbing_wall_02
+- generated (water): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- pbr (pbr_Rock038): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Rock038
+- pbr (pbr_flower_scattered_dirt): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/flower_scattered_dirt
+- pbr (pbr_rough_plaster_brick): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/rough_plaster_brick
+- pbr (pbr_concrete_wall_001): polyhaven, Dimitrios Savva, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/concrete_wall_001
+- pbr (pbr_concrete_tiles_02): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/concrete_tiles_02
+- pbr (pbr_Metal028): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal028
+- pbr (pbr_concrete_pavers): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/concrete_pavers
+- pbr (pbr_patterned_brick_wall_03): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/patterned_brick_wall_03
+- pbr (pbr_PavingStones012): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PavingStones012
+- pbr (pbr_Wallpaper001A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wallpaper001A
+- pbr (pbr_concrete_wall_004): polyhaven, Dario Barresi, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/concrete_wall_004
+- pbr (pbr_volcanic_herringbone_01): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/volcanic_herringbone_01
+- generated (foliage_card): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- pbr (pbr_stone_tile_wall): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/stone_tile_wall
+- pbr (pbr_PaintedMetal014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedMetal014
+- pbr (pbr_Facade003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Facade003
+- pbr (pbr_Plaster007): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Plaster007
+- pbr (pbr_CorrugatedSteel005): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=CorrugatedSteel005
+- pbr (pbr_Metal033): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal033
+- pbr (pbr_whitewashed_brick): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/whitewashed_brick
+- pbr (pbr_Wood096): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood096
+- pbr (pbr_dark_wooden_planks): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/dark_wooden_planks
+- pbr (pbr_wood_trunk_wall): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/wood_trunk_wall
+- pbr (pbr_white_planks_clean): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/white_planks_clean
+- pbr (pbr_Wood002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood002
+- pbr (pbr_Wood080): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood080
+- pbr (pbr_exterior_wall_cladding_03): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/exterior_wall_cladding_03
+- pbr (pbr_Concrete002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete002
+- pbr (pbr_worn_corrugated_iron): polyhaven, Jenelle van Heerden, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/worn_corrugated_iron
+- pbr (pbr_wood_textured_concrete): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/wood_textured_concrete
+- pbr (pbr_Plaster003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Plaster003
+- pbr (pbr_Wallpaper002C): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wallpaper002C
+- pbr (pbr_Fabric028): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Fabric028
+- pbr (pbr_Wood046): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood046
+- pbr (pbr_Wood044): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood044
+- pbr (pbr_Wood085B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood085B
+- pbr (pbr_granite_tile): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/granite_tile
+- pbr (pbr_Facade002): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Facade002
+- pbr (pbr_blue_plaster_weathered): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/blue_plaster_weathered
+- pbr (pbr_grey_plaster_03): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/grey_plaster_03
+- pbr (pbr_white_rough_plaster): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/white_rough_plaster
+- pbr (pbr_worn_tile_floor): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/worn_tile_floor
+- pbr (pbr_Wood016): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood016
+- pbr (pbr_WoodFloor015): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor015
+- pbr (pbr_Carpet001): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Carpet001
+- pbr (pbr_rusted_shutter): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/rusted_shutter
+- pbr (pbr_Metal031): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal031
+- pbr (pbr_painted_metal_shutter): polyhaven, Dario Barresi, Rico Cilliers, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/painted_metal_shutter
+- pbr (pbr_Metal011): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal011
+- pbr (pbr_Wood091B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood091B
+- pbr (pbr_Wood034): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood034
+- generated (grate): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- pbr (pbr_wood_shutter): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/wood_shutter
+- pbr (pbr_Bricks040): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Bricks040
+- pbr (pbr_Carpet015): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Carpet015
+- pbr (pbr_brick_wall_02): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/brick_wall_02
+- pbr (pbr_concrete_block_wall): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/concrete_block_wall
+- pbr (pbr_Concrete034): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete034
+- pbr (pbr_Terrazzo013): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Terrazzo013
+- pbr (pbr_Ground014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground014
+- pbr (pbr_SheetMetal001): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=SheetMetal001
+- pbr (pbr_Metal046B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal046B
+- pbr (pbr_grass_path_3): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/grass_path_3
+- pbr (pbr_MetalWalkway013): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=MetalWalkway013
+- pbr (pbr_Metal039): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal039
+- pbr (pbr_worn_plaster_wall): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/worn_plaster_wall
+- pbr (pbr_Wood033): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood033
+- pbr (pbr_patterned_clay_plaster): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/patterned_clay_plaster
+- pbr (pbr_Facade014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Facade014
+- pbr (pbr_PaintedPlaster015): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedPlaster015
+- pbr (pbr_Concrete035): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete035
+- pbr (pbr_Terrazzo010): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Terrazzo010
+- generated (glass): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- pbr (pbr_Planks001): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Planks001
+- pbr (pbr_WoodSiding003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodSiding003
+- pbr (pbr_MetalPlates009): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=MetalPlates009
+- pbr (pbr_DiamondPlate004): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=DiamondPlate004
+- pbr (pbr_MetalPlates001): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=MetalPlates001
+- pbr (pbr_DiamondPlate008D): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=DiamondPlate008D
+- pbr (pbr_old_wooden_floor_01): polyhaven, Charlotte Baglioni, Dario Barresi, CC0-1.0, https://polyhaven.com/a/old_wooden_floor_01
+- pbr (pbr_Metal009): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal009
+- pbr (pbr_MetalPlates003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=MetalPlates003
+- pbr (pbr_Metal048A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal048A
+- pbr (pbr_Planks029L): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Planks029L
+- pbr (pbr_wood_peeling_paint_weathered): polyhaven, Rob Tuytel, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/wood_peeling_paint_weathered
+- pbr (pbr_metal_grate_rusty): polyhaven, Rob Tuytel, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/metal_grate_rusty
+- pbr (pbr_worn_planks): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/worn_planks
+- pbr (pbr_flamed_black_veneer): polyhaven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/flamed_black_veneer
+- pbr (pbr_Tiles029): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles029
+- pbr (pbr_Tiles037): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles037
+- pbr (pbr_rebar_reinforced_concrete): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/rebar_reinforced_concrete
+- pbr (pbr_Tiles058): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles058
+- pbr (pbr_brown_planks_05): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/brown_planks_05
+- pbr (pbr_PaintedWood009C): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedWood009C
+- pbr (pbr_Wood004): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood004
+- pbr (pbr_damp_beach_sand_02): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/damp_beach_sand_02
+- pbr (pbr_Concrete011): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete011
+- pbr (pbr_DiamondPlate008C): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=DiamondPlate008C
+- pbr (pbr_DiamondPlate008A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=DiamondPlate008A
+- pbr (pbr_PavingStones134): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PavingStones134
+- pbr (pbr_plastered_wall): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/plastered_wall
+- pbr (pbr_Tiles019): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles019
+
+# Model stand-ins
+
+- armchair: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- barrel: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
+- bed: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- bin: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- bucket: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
+- bush: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- cabinet: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- cardboard_box: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- chair: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- chest: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
+- crate: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
+- desk: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- factory/door: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- factory/pipe: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- factory/window: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- fence: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- floor_lamp: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- lamp: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- lib/dm_antenna: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
+- lib/dm_coffeemug: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/household.py
+- lib/dm_electricalbox: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
+- lib/dm_foodstack: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_freightbutton: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/industrial.py
+- lib/dm_harddrive: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_keyboard: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
+- lib/dm_kitchensink: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/household.py
+- lib/dm_light_inset: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/light_inset.py
+- lib/dm_partsbin: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
+- lib/dm_pipecluster: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_pipeclustertall: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/industrial.py
+- lib/dm_pipecoupling: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_pipeelbow: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_pipestraight: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_power_box: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/power_box.py
+- lib/dm_roofvent: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
+- lib/dm_securitylight: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_utilitypole: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_ventgrille: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
+- lib/dm_wirebundle: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
+- lib/fxtowelrack: Modelled for Gamespice map, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/kenney_building-kit_door-rotate-square-a: Kenney Building Kit, Kenney, CC0-1.0, https://kenney.nl/assets/building-kit
+- lib/kenney_car-kit_cone: Kenney Car Kit, Kenney, CC0-1.0, https://kenney.nl/assets/car-kit
+- lib/kenney_car-kit_garbage-truck: Kenney Car Kit, Kenney, CC0-1.0, https://kenney.nl/assets/car-kit
+- lib/kenney_factory-kit_pipe-large-bump: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- lib/kenney_food-kit_cup-coffee: Kenney Food Kit, Kenney, CC0-1.0, https://kenney.nl/assets/food-kit
+- lib/kenney_food-kit_egg-cup: Kenney Food Kit, Kenney, CC0-1.0, https://kenney.nl/assets/food-kit
+- lib/kenney_food-kit_lemon-half: Kenney Food Kit, Kenney, CC0-1.0, https://kenney.nl/assets/food-kit
+- lib/kenney_food-kit_mug: Kenney Food Kit, Kenney, CC0-1.0, https://kenney.nl/assets/food-kit
+- lib/kenney_furniture-kit_cardboardBoxOpen: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- lib/kenney_furniture-kit_computerMouse: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- lib/kenney_furniture-kit_televisionModern: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- lib/kenney_furniture-kit_toilet: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- lib/kenney_graveyard-kit_hay-bale: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
+- lib/kenney_graveyard-kit_hay-bale-bundled: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
+- lib/kenney_graveyard-kit_iron-fence-border-gate: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
+- lib/kenney_graveyard-kit_lantern-glass: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
+- lib/kenney_mini-arcade_dance-machine: Kenney Mini Arcade, Kenney, CC0-1.0, https://kenney.nl/assets/mini-arcade
+- lib/kenney_mini-arcade_gambling-machine: Kenney Mini Arcade, Kenney, CC0-1.0, https://kenney.nl/assets/mini-arcade
+- lib/kenney_nature-kit_cliff_blockSlope_rock: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- lib/kenney_nature-kit_statue_columnDamaged: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- lib/kenney_survival-kit_fish: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
+- lib/kenney_weapon-pack_ammo_rocket: Kenney Weapon Pack, Kenney, CC0-1.0, https://kenney.nl/assets/weapon-pack
+- lib/own_box_15x17x15_e8e8e0: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/own_box_25x19x12_6a4a30: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/own_box_56x52x56_e8e8e0: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/own_cyl_14x180x146_101012: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/own_cyl_8x231x471_101012: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/ph_WetFloorSign_01: Poly Haven, Fran Calvente, CC0-1.0, https://polyhaven.com/a/WetFloorSign_01
+- lib/ph_WoodenTable_01: Poly Haven, Ethan Place, CC0-1.0, https://polyhaven.com/a/WoodenTable_01
+- lib/ph_ammo_box: Poly Haven, DanKit, CC0-1.0, https://polyhaven.com/a/ammo_box
+- lib/ph_antique_ceramic_vase_01: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/antique_ceramic_vase_01
+- lib/ph_bar_chair_round_01: Poly Haven, Dairon Sanchez, CC0-1.0, https://polyhaven.com/a/bar_chair_round_01
+- lib/ph_barrel_stove: Poly Haven, MP, CC0-1.0, https://polyhaven.com/a/barrel_stove
+- lib/ph_bleach_bottle: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/bleach_bottle
+- lib/ph_bolt_action_rifle_7_62: Poly Haven, Mateusz Sadek, CC0-1.0, https://polyhaven.com/a/bolt_action_rifle_7_62
+- lib/ph_book_encyclopedia_set_01: Poly Haven, John Malcolm, CC0-1.0, https://polyhaven.com/a/book_encyclopedia_set_01
+- lib/ph_brass_pot_02: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/brass_pot_02
+- lib/ph_brass_vase_02: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/brass_vase_02
+- lib/ph_can_rusted: Poly Haven, Rahul Chaudhary, CC0-1.0, https://polyhaven.com/a/can_rusted
+- lib/ph_cardboard_box_01: Poly Haven, Rahul Chaudhary, CC0-1.0, https://polyhaven.com/a/cardboard_box_01
+- lib/ph_ceiling_fan: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/ceiling_fan
+- lib/ph_compost_bag_02: Poly Haven, Satyaki Mandal, CC0-1.0, https://polyhaven.com/a/compost_bag_02
+- lib/ph_dining_chair_02: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/dining_chair_02
+- lib/ph_electric_stove: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/electric_stove
+- lib/ph_filmstrip_projector_8mm: Poly Haven, PeterM, CC0-1.0, https://polyhaven.com/a/filmstrip_projector_8mm
+- lib/ph_fire_hydrant: Poly Haven, Gonçalo Felício, CC0-1.0, https://polyhaven.com/a/fire_hydrant
+- lib/ph_gallinera_table: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/gallinera_table
+- lib/ph_grass_medium_02: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/grass_medium_02
+- lib/ph_industrial_pastic_container: Poly Haven, Galo Benivegna, CC0-1.0, https://polyhaven.com/a/industrial_pastic_container
+- lib/ph_industrial_pipe_lamp: Poly Haven, Mateusz Sadek, CC0-1.0, https://polyhaven.com/a/industrial_pipe_lamp
+- lib/ph_industrial_wall_lamp: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/industrial_wall_lamp
+- lib/ph_jug_01: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/jug_01
+- lib/ph_korean_fire_extinguisher_01: Poly Haven, UM JOORIN, CC0-1.0, https://polyhaven.com/a/korean_fire_extinguisher_01
+- lib/ph_ladder_sectioned_01: Poly Haven, MP, CC0-1.0, https://polyhaven.com/a/ladder_sectioned_01
+- lib/ph_medical_box: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/medical_box
+- lib/ph_metal_jerrycan_green: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/metal_jerrycan_green
+- lib/ph_modular_airduct_circular_01: Poly Haven, Riley Queen, CC0-1.0, https://polyhaven.com/a/modular_airduct_circular_01
+- lib/ph_namaqualand_boulder_03: Poly Haven, Jenelle van Heerden, Dario Barresi, CC0-1.0, https://polyhaven.com/a/namaqualand_boulder_03
+- lib/ph_namaqualand_boulder_04: Poly Haven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/namaqualand_boulder_04
+- lib/ph_old_tyre: Poly Haven, MP, CC0-1.0, https://polyhaven.com/a/old_tyre
+- lib/ph_outdoor_table_chair_set_01: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/outdoor_table_chair_set_01
+- lib/ph_painted_wooden_cabinet: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/painted_wooden_cabinet
+- lib/ph_painted_wooden_chair_02: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/painted_wooden_chair_02
+- lib/ph_painted_wooden_sofa: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/painted_wooden_sofa
+- lib/ph_plastic_monobloc_chair_01: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/plastic_monobloc_chair_01
+- lib/ph_potted_plant_02: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/potted_plant_02
+- lib/ph_propane_tank: Poly Haven, Slinc, CC0-1.0, https://polyhaven.com/a/propane_tank
+- lib/ph_round_wooden_table_02: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/round_wooden_table_02
+- lib/ph_shrub_02: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/shrub_02
+- lib/ph_shrub_04: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/shrub_04
+- lib/ph_small_oil_can_01: Poly Haven, Raven van de Werken, CC0-1.0, https://polyhaven.com/a/small_oil_can_01
+- lib/ph_sofa_02: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/sofa_02
+- lib/ph_steel_frame_shelves_03: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/steel_frame_shelves_03
+- lib/ph_street_lamp_02: Poly Haven, Josh Dean, CC0-1.0, https://polyhaven.com/a/street_lamp_02
+- lib/ph_television_02: Poly Haven, Benny Weimer, CC0-1.0, https://polyhaven.com/a/television_02
+- lib/ph_utility_box_01: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/utility_box_01
+- lib/ph_vintage_day_bed: Poly Haven, Aron Łyczek, CC0-1.0, https://polyhaven.com/a/vintage_day_bed
+- lib/ph_vintage_oil_lamp: Poly Haven, Monsta3D, CC0-1.0, https://polyhaven.com/a/vintage_oil_lamp
+- lib/ph_vintage_radio_transceiver: Poly Haven, Mateusz Sadek, CC0-1.0, https://polyhaven.com/a/vintage_radio_transceiver
+- lib/ph_vintage_telephone_wall_clock: Poly Haven, Adrian C, CC0-1.0, https://polyhaven.com/a/vintage_telephone_wall_clock
+- lib/ph_wall_clock: Poly Haven, PierreB3D, CC0-1.0, https://polyhaven.com/a/wall_clock
+- lib/ph_wooden_axe: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/wooden_axe
+- lib/ph_wooden_bookshelf_worn: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/wooden_bookshelf_worn
+- lib/ph_wooden_bucket_01: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/wooden_bucket_01
+- lib/ph_wooden_crate_01: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/wooden_crate_01
+- lib/sf_classic_park_bench_low_poly_01a5b6: Sketchfab, Berk Gedik, CC-BY-4.0, https://sketchfab.com/3d-models/none-01a5b64427984632bb44242da3813bb1
+- lib/sf_coconut_tree_d14194: Sketchfab, sujirour, CC-BY-4.0, https://sketchfab.com/3d-models/none-d141941578044b0f861ca83b36d4c411
+- lib/sf_coffee_mug_6c9589: Sketchfab, The Lister, CC-BY-4.0, https://sketchfab.com/3d-models/none-6c95897de04143aeb5c75b7630707d27
+- lib/sf_desktop_computer_561abc: Sketchfab, Tytan, CC-BY-4.0, https://sketchfab.com/3d-models/none-561abc2fc95941609fc7bc6f232895c2
+- lib/sf_door_wood_afed97: Sketchfab, DiggenDigga, CC-BY-4.0, https://sketchfab.com/3d-models/none-afed9756ba974d1395a336124ff326fd
+- lib/sf_fire_extinguisher_old_rusty_3d_scan_70a4fd: Sketchfab, grafi, CC-BY-4.0, https://sketchfab.com/3d-models/none-70a4fdec06c64372ba3a96ae49257ce1
+- lib/sf_free_pothos_potted_plant_money_plant_e9832f: Sketchfab, AllQuad, CC-BY-4.0, https://sketchfab.com/3d-models/none-e9832f38484f4f85b3f9081b51fa3799
+- lib/sf_game_ready_asset_wood_pallet_c3fd98: Sketchfab, poala, CC-BY-4.0, https://sketchfab.com/3d-models/none-c3fd982e932b4ac6951c58200d08f913
+- lib/sf_grundig_radio_fr_250_free_am_fm_sw_a8d7fe: Sketchfab, Gherson, CC-BY-4.0, https://sketchfab.com/3d-models/none-a8d7fe770fcf40ba8e257f5c73d2d55b
+- lib/sf_industrial_air_conditioner_827973: Sketchfab, HusarL, CC-BY-4.0, https://sketchfab.com/3d-models/none-82797367c2b94fb1981e556577a3c898
+- lib/sf_japan_vending_machine_soft_drink_431394: Sketchfab, ditovirnantio, CC-BY-4.0, https://sketchfab.com/3d-models/none-431394ee886141349e187fb8dcc2307a
+- lib/sf_microwave_oven_5af99d: Sketchfab, Fantom Matter, CC-BY-4.0, https://sketchfab.com/3d-models/none-5af99db17fb645bba7e55ace9e7b6b34
+- lib/sf_office_chair_af2f07: Sketchfab, AK STUDIO, CC-BY-4.0, https://sketchfab.com/3d-models/none-af2f07d06f6349158c1d24d87f5ceb95
+- lib/sf_oil_spill_container_3b631c: Sketchfab, Avadhoot, CC-BY-4.0, https://sketchfab.com/3d-models/none-3b631c600dd3454284958699bde08222
+- lib/sf_old_radiator_8a1a2e: Sketchfab, thethieme, CC-BY-4.0, https://sketchfab.com/3d-models/none-8a1a2e0263aa401591c1e87d824a79ef
+- lib/sf_pine_tree_ps1_low_poly_d71cee: Sketchfab, Wersaus33, CC-BY-4.0, https://sketchfab.com/3d-models/none-d71ceeb303644e649d09fe8038aa5e47
+- lib/sf_psx_fire_extinguisher_e786b7: Sketchfab, Brainsick Games, CC-BY-4.0, https://sketchfab.com/3d-models/none-e786b75a860c45c69590403504956a9a
+- lib/sf_psx_shopping_cart_96534b: Sketchfab, Brainsick Games, CC-BY-4.0, https://sketchfab.com/3d-models/none-96534b56f0d9487db08f00f1f9301fa1
+- lib/sf_rifle_box_low_poly_aaa6d5: Sketchfab, Berk Gedik, CC-BY-4.0, https://sketchfab.com/3d-models/none-aaa6d521741944359a6b5a6b67a0bee7
+- lib/sf_shower_room_assets_8e13a8: Sketchfab, Evan Petrov, CC-BY-4.0, https://sketchfab.com/3d-models/none-8e13a866ee184bed95bb5b59ddee62cd
+- lib/sf_simple_toilet_paper_2_0_448e57: Sketchfab, Blender3D, CC-BY-4.0, https://sketchfab.com/3d-models/none-448e57880fa744e19e18604e42d64cf3
+- lib/sf_stylized_bush_9d9ce7: Sketchfab, Daniel, CC-BY-4.0, https://sketchfab.com/3d-models/none-9d9ce79d3ae040619e96d5b22c7de1a6
+- lib/sf_toilet_132a8e: Sketchfab, HippoStance, CC-BY-4.0, https://sketchfab.com/3d-models/none-132a8ee2af3a40d39d270fbed3d3666c
+- lib/sf_wooden_table_0dc1c7: Sketchfab, FlukierJupiter, CC-BY-4.0, https://sketchfab.com/3d-models/none-0dc1c7d6cbab4d74bef7c4f82abf2caf
+- log: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- monitor: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- pirate/bottle: Kenney Pirate Kit, Kenney, CC0-1.0, https://kenney.nl/assets/pirate-kit
+- plant: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- radio: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- rock: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- sofa: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- stump: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- table: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- tree: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- vehicles/sedan: Kenney Car Kit, Kenney, CC0-1.0, https://kenney.nl/assets/car-kit
+
+# Sound stand-ins
+
+- amb_eerie: Gamespice audio stock ambience (synthesised), Gamespice (audio authors), CC0-1.0, https://github.com/gamespice-platform/audio
+- amb_night: Gamespice audio stock ambience (synthesised), Gamespice (audio authors), CC0-1.0, https://github.com/gamespice-platform/audio
+- amb_rain: Gamespice audio stock ambience (synthesised), Gamespice (audio authors), CC0-1.0, https://github.com/gamespice-platform/audio
+- amb_wind: Gamespice audio stock ambience (synthesised), Gamespice (audio authors), CC0-1.0, https://github.com/gamespice-platform/audio
+- button: Kenney Interface Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/interface-sounds
+- door_close: Kenney Sci-Fi Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/sci-fi-sounds
+- door_open: Kenney Sci-Fi Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/sci-fi-sounds
+- drip: Kenney Foley Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/foley-sounds
+- energy: Kenney Sci-Fi Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/sci-fi-sounds
+- explosion: Kenney Sci-Fi Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/sci-fi-sounds
+- fire: Kenney Sci-Fi Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/sci-fi-sounds
+- flush: Kenney Foley Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/foley-sounds
+- machine: Kenney Sci-Fi Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/sci-fi-sounds
+- machine_low: Kenney Sci-Fi Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/sci-fi-sounds
+- metal_slide: Kenney Foley Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/foley-sounds
+- water_run: Kenney Foley Sounds, Kenney, CC0-1.0, https://kenney.nl/assets/foley-sounds

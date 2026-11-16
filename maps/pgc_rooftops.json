@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "youmenow1",
- "attribution": "Geometry converted from ttt_rooftops_2016, https://steamcommunity.com/sharedfiles/filedetails/?id=534491717 by youmenow1. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from ttt_rooftops_2016, https://steamcommunity.com/sharedfiles/filedetails/?id=534491717 by youmenow1. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   -0.248,
   1.0,
@@ -40,7 +40,7 @@
     0.3,
     0.61
    ],
-   "material": "concrete"
+   "material": "metal"
   },
   {
    "at": [
@@ -27203,6 +27203,23 @@
    "why": "a roof, ledge or room the converter leaves without a climb or a door (surveyed unreached, not a trap)"
   }
  ],
+ "world": {
+  "pack": "pg_world_rooftops",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   -1.2192,
+   0.0
+  ],
+  "crop": [
+   -55.2,
+   -52.6,
+   54.8,
+   57.4,
+   -18.7808,
+   46.2192
+  ]
+ },
  "source_frame": {
   "map": "ttt_rooftops_2016_v1.bsp",
   "sha256": "244f3817acae191774882fb2e2937b6ba73b0645e1e36de8fc395608a78827fd",

@@ -1,0 +1,103 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gm_mallparking",
+ "sha256": "f021a5f805b6c2793c1459b80f73a627a565626af557cea42ee2d620085f9feb",
+ "textures": {
+  "looked_up": 98,
+  "drawn": 97,
+  "by_tier": {
+   "addon": 59,
+   "default": 39
+  },
+  "free_by_tier": {
+   "addon": 92,
+   "default": 5
+  },
+  "nearest_photo": [
+   "concrete/concrete_floor_10",
+   "concrete/concreteceiling003a",
+   "concrete/concretewall041a",
+   "concrete/concretewall041b",
+   "concrete/concretewall041c",
+   "concrete/concretewall065b",
+   "metal/metaldoor011a",
+   "metal/metaldoor032a",
+   "metal/metalpipe006a",
+   "parking_lot/ac_indoor",
+   "parking_lot/avoiddeathsign",
+   "parking_lot/ceilingtilea_light",
+   "parking_lot/concrete_pillar_parking",
+   "parking_lot/concretewall064a_painted",
+   "parking_lot/escallatorplate",
+   "parking_lot/escallatorstep",
+   "parking_lot/extingusher",
+   "parking_lot/storebillboard2",
+   "parking_lot/vending",
+   "parking_lot/warehousedoor",
+   "plaster/ceiling_insulation05",
+   "plaster/sheetrock02",
+   "plaster/urban_plasterwall_00a",
+   "plaster/urban_plasterwall_01a",
+   "props/metallockers004a",
+   "props/metalpanel003a",
+   "props/metalpanel016a",
+   "props/metalpanel016b",
+   "props/plasticexitsign001b",
+   "wood/wooddoor010a",
+   "wood/wooddoor011a"
+  ]
+ },
+ "models": {
+  "looked_up": 162,
+  "by_tier": {
+   "category": 20,
+   "default": 142
+  }
+ },
+ "sounds": {
+  "looked_up": 11,
+  "by_tier": {
+   "default": 11
+  }
+ },
+ "classes": {
+  "distinct": 27,
+  "entities": 2998,
+  "by_tier": {
+   "default": 27
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 13,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [
+   "parking_lot/warehousedoor"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 1
+ }
+}

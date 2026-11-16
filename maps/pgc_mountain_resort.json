@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "prvec",
- "attribution": "Geometry converted from gm_mountainresort, https://steamcommunity.com/sharedfiles/filedetails/?id=2312309380 by prvec. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from gm_mountainresort, https://steamcommunity.com/sharedfiles/filedetails/?id=2312309380 by prvec. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   -57.398,
   1.0,
@@ -555,12 +555,12 @@
   },
   {
    "at": [
-    -57.12,
+    -57.122,
     -0.82,
     -91.605
    ],
    "size": [
-    0.32,
+    0.324,
     1.14,
     0.37
    ],
@@ -581,14 +581,14 @@
   },
   {
    "at": [
-    -57.12,
+    -57.122,
     -0.82,
-    -91.225
+    -91.227
    ],
    "size": [
-    0.32,
+    0.324,
     1.14,
-    0.39
+    0.394
    ],
    "material": "concrete"
   },
@@ -608,6 +608,43 @@
   }
  ],
  "declared": [],
+ "world": {
+  "pack": "pg_world_mountain_resort",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   -0.0762,
+   0.0
+  ],
+  "crop": [
+   -81.0,
+   -92.0,
+   -56.0,
+   -52.0,
+   -11.9238,
+   30.0762
+  ]
+ },
+ "source_frame": {
+  "map": "gm_mountainresort.bsp",
+  "sha256": "e65ea7f4889c63d4e0e4a237768527d5e7efef2b13edf97b896b74ac52d89bda",
+  "scale": 0.01905,
+  "offset": [
+   0.0,
+   0.0762,
+   0.0
+  ],
+  "crop": null,
+  "crop_band": null,
+  "bounds": [
+   -68.343,
+   -2.094,
+   -93.46,
+   -54.96,
+   0.076,
+   -51.35
+  ]
+ },
  "ambient": {
   "level": 1.2,
   "lively": true

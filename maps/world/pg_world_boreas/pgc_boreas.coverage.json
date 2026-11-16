@@ -1,0 +1,150 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gm_boreas",
+ "sha256": "08676e9d0b91269346f4b8f437e6747c82db57b9b87e5a37a5bc2e5d8eeccce2",
+ "textures": {
+  "looked_up": 12,
+  "drawn": 15,
+  "by_tier": {
+   "addon": 2,
+   "default": 10
+  },
+  "free_by_tier": {
+   "addon": 14,
+   "default": 1
+  },
+  "nearest_photo": [
+   "boreas/concrete/concretefloor005a",
+   "boreas/metal/forest_metal_02c",
+   "boreas/metal/metalcrate001ab_orange",
+   "boreas/metal/metalpipe005a",
+   "boreas/nature/blendsnowconcrete01",
+   "boreas/nature/blendsnowroad02",
+   "boreas/nature/blendsnowrock02",
+   "metal/metalwall070b",
+   "wood/woodwall045b"
+  ]
+ },
+ "models": {
+  "looked_up": 542,
+  "by_tier": {
+   "category": 68,
+   "default": 452,
+   "fallback": 21,
+   "skybox": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 13,
+  "by_tier": {
+   "default": 7,
+   "fallback": 6
+  }
+ },
+ "classes": {
+  "distinct": 69,
+  "entities": 14280,
+  "by_tier": {
+   "default": 68,
+   "fallback": 1
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "info_node_hint": [
+    "StartHintDisabled"
+   ],
+   "info_node_link": [
+    "InvertAllow"
+   ],
+   "item_item_crate": [
+    "CrateAppearance",
+    "ItemClass",
+    "ItemCount",
+    "modelscale",
+    "skin"
+   ]
+  }
+ },
+ "links": {
+  "total": 538,
+  "unresolved": 3
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [
+   "boreas/exterior/road.mdl",
+   "boreas/radarstation/radome.mdl",
+   "gantry_crane/crane_controlbox.mdl",
+   "magnusson_teleporter_off.mdl",
+   "props_c17/hospital_ivstand01.mdl",
+   "props_c17/hospital_surgerylight01.mdl",
+   "props_lab/cleaver.mdl",
+   "props_lab/crematorcase.mdl",
+   "props_lab/crystalbulk.mdl",
+   "props_lab/labpart.mdl",
+   "props_lab/ladel.mdl",
+   "props_lab/miniteleport.mdl",
+   "props_lab/teleportbulkeli.mdl",
+   "props_mining/antlion_detector.mdl",
+   "props_silo/fuel_cask.mdl",
+   "props_silo/silo_server_a.mdl",
+   "props_silo/silo_server_b.mdl",
+   "props_silo/silo_server_c.mdl",
+   "props_silo/silo_server_d.mdl",
+   "props_silo/welding_helmet.mdl",
+   "vehicles/inner_pod_rotator.mdl"
+  ],
+  "sounds_unmapped": [
+   "artefact.attach",
+   "artefact.degauss",
+   "artefact.detach",
+   "k_lab.printer",
+   "plats/platstop1.wav",
+   "town.d1_town_02_squeekmove1"
+  ],
+  "classes_unmapped": [
+   "info_null"
+  ],
+  "keys_unmapped": [
+   "info_node_hint.StartHintDisabled",
+   "info_node_link.InvertAllow",
+   "item_item_crate.CrateAppearance",
+   "item_item_crate.ItemClass",
+   "item_item_crate.ItemCount",
+   "item_item_crate.modelscale",
+   "item_item_crate.skin"
+  ],
+  "links_unresolved": [
+   "func_button.OnPressed->hangarButtonSprites",
+   "prop_door_rotating.OnFullyClosed->checkpointAreaportal12",
+   "prop_door_rotating.OnOpen->checkpointAreaportal12"
+  ],
+  "inputs_unimplemented": [
+   "env_entity_dissolver.Dissolve",
+   "env_physexplosion.Explode",
+   "env_shake.Amplitude",
+   "func_areaportalwindow.SetFadeEndDistance",
+   "func_areaportalwindow.SetFadeStartDistance",
+   "func_rotating.Alpha",
+   "info_target.Alpha",
+   "lua_run.RunCode",
+   "prop_dynamic.SetPlaybackRate"
+  ],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 21,
+  "sounds_unmapped": 6,
+  "classes_unmapped": 1,
+  "keys_unmapped": 7,
+  "links_unresolved": 3,
+  "inputs_unimplemented": 9,
+  "surfaces_opaque": 0
+ }
+}

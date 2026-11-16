@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "Blueberry_pie",
- "attribution": "Geometry converted from gm_boreas, https://steamcommunity.com/sharedfiles/filedetails/?id=1572373847 by Blueberry_pie. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from gm_boreas, https://steamcommunity.com/sharedfiles/filedetails/?id=1572373847 by Blueberry_pie. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   -93.878,
   1.0,
@@ -16076,6 +16076,23 @@
    "why": "the hut roof, which the author reaches by props the converter does not carry (surveyed unreached, not a trap)"
   }
  ],
+ "world": {
+  "pack": "pg_world_boreas",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   121.02465,
+   0.0
+  ],
+  "crop": [
+   -148.9,
+   96.2,
+   -38.9,
+   186.0,
+   -129.02465,
+   -66.02465
+  ]
+ },
  "source_frame": {
   "map": "gm_boreas.bsp",
   "sha256": "08676e9d0b91269346f4b8f437e6747c82db57b9b87e5a37a5bc2e5d8eeccce2",

@@ -1,0 +1,659 @@
+{
+ "map": {
+  "author": "Fartomaticatron",
+  "page": "https://steamcommunity.com/sharedfiles/filedetails/?id=151544081",
+  "licence": "none stated"
+ },
+ "works": [
+  {
+   "kind": "texture",
+   "name": "pbr_rough_plaster_brick",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rough_plaster_brick",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 48
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete044D",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete044D",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 33
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_leaf_scattered_gravel",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/leaf_scattered_gravel",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 15
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Grass001",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Grass001",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 8
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_flower_scattered_dirt",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/flower_scattered_dirt",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 11
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Plaster002",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Plaster002",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 12
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_concrete_pavement",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/concrete_pavement",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 29
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_clay_plaster",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/clay_plaster",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 26
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_weathered_peeling_timber",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/weathered_peeling_timber",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_stone_wall_05",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/stone_wall_05",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete042B",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete042B",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Road009B",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Road009B",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Gravel029",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Gravel029",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete044C",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete044C",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Tiles007",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Tiles007",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Wood033",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Wood033",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 6
+  },
+  {
+   "kind": "model",
+   "name": "bookcase",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/furniture-kit",
+   "source": "Kenney Furniture Kit",
+   "attribution": false,
+   "uses": 27
+  },
+  {
+   "kind": "model",
+   "name": "bush",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/nature-kit",
+   "source": "Kenney Nature Kit",
+   "attribution": false,
+   "uses": 33
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_basin_unit",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/basin_unit.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 13
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_deskclock",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_fireplace",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/fireplace.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_freightbutton",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/industrial.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 12
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_fridgedoor",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/household.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 44
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_handrailcorner",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/handrail.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_lighttroffer",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 121
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_panelvan",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_rubbish_pile",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/rubbish_pile.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_securitylight",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_slide",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/playground.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/kenney_car-kit_garbage-truck",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/car-kit",
+   "source": "Kenney Car Kit",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/kenney_factory-kit_pipe-glass-large-long",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/factory-kit",
+   "source": "Kenney Factory Kit",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/kenney_graveyard-kit_iron-fence-border-gate",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/graveyard-kit",
+   "source": "Kenney Graveyard Kit",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/own_box_133x118x156_8a8478",
+   "author": "Gamespice (generated for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map",
+   "source": "TMC generated model",
+   "attribution": false,
+   "uses": 83
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_bolt_action_rifle_7_62",
+   "author": "Mateusz Sadek",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/bolt_action_rifle_7_62",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_concrete_cat_statue",
+   "author": "Rico Cilliers, Riley Queen",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/concrete_cat_statue",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_electric_stove",
+   "author": "Kuutti Siitonen",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/electric_stove",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 23
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_grass_medium_02",
+   "author": "Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/grass_medium_02",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 17
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_industrial_pipe_lamp",
+   "author": "Mateusz Sadek",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/industrial_pipe_lamp",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 29
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_island_tree_01",
+   "author": "Rob Tuytel, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/island_tree_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_lantern_chandelier_01",
+   "author": "Kirill Sannikov",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/lantern_chandelier_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 60
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_marble_bust_01",
+   "author": "Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/marble_bust_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_modular_chainlink_fence",
+   "author": "James Ray Cock, Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/modular_chainlink_fence",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_moon_rock_05",
+   "author": "Greg Zaal, Rico Cilliers, Jenelle van Heerden",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/moon_rock_05",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_moon_rock_06",
+   "author": "Greg Zaal, Jenelle van Heerden, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/moon_rock_06",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_old_tyre",
+   "author": "MP",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/old_tyre",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_pull_chain_light_socket",
+   "author": "Josh Dean",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/pull_chain_light_socket",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_shrub_02",
+   "author": "Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/shrub_02",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_street_lamp_01",
+   "author": "Josh Dean",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/street_lamp_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 19
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_vintage_day_bed",
+   "author": "Aron \u0141yczek",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/vintage_day_bed",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_wooden_ladder_02",
+   "author": "JN_3DPRINTINGNERD",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/wooden_ladder_02",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 6
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_classic_park_bench_low_poly_01a5b6",
+   "author": "Berk Gedik",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-01a5b64427984632bb44242da3813bb1",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 5
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_coconut_tree_d14194",
+   "author": "sujirour",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-d141941578044b0f861ca83b36d4c411",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 5
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_dumpster_cyberpunk_game_assets_b0d030",
+   "author": "EXHALE",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-b0d0304c927b450d904163fa43978519",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_free_pothos_potted_plant_money_plant_e9832f",
+   "author": "AllQuad",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-e9832f38484f4f85b3f9081b51fa3799",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 58
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_kitchen_sink_504248",
+   "author": "HippoStance",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-504248ed68e3480a807aced6f002b2d5",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 11
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_light_ceiling_lamp_15mb_eaaab0",
+   "author": "Mehdi Shahsavan",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-eaaab08eac454e59840fa4818fc55ff3",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 43
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_oil_drum_61b602",
+   "author": "kubassa",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-61b602b7e959408f9c6c5bf6392bc4b7",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_old_fridge_6b2862",
+   "author": "sergeilihandristov",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-6b2862c241754f5d81690e8664e41091",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 11
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_old_radiator_8a1a2e",
+   "author": "thethieme",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-8a1a2e0263aa401591c1e87d824a79ef",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 62
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_pine_tree_d45218",
+   "author": "evolveduk",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-d45218a3fab349e5b1de040f29e7b6f9",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_pine_tree_ps1_low_poly_d71cee",
+   "author": "Wersaus33",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-d71ceeb303644e649d09fe8038aa5e47",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 7
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_toilet_132a8e",
+   "author": "HippoStance",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-132a8ee2af3a40d39d270fbed3d3666c",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 13
+  },
+  {
+   "kind": "model",
+   "name": "lib/sf_wooden_door_8726b6",
+   "author": "HASSAN",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-8726b6c219a54ed585e096f267c2a35e",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "prototype/ladder",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/prototype-kit",
+   "source": "Kenney Prototype Kit",
+   "attribution": false,
+   "uses": 13
+  },
+  {
+   "kind": "sound",
+   "name": "energy",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/sci-fi-sounds",
+   "source": "Kenney Sci-Fi Sounds",
+   "attribution": false,
+   "uses": 2
+  }
+ ]
+}

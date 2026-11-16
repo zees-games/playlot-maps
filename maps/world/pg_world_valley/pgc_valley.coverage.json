@@ -1,0 +1,71 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gm_valley",
+ "sha256": "a3d7265751a86d39652e41ecea103b4d65aefaf9554bc3eb58fa9af41ac9f5d8",
+ "textures": {
+  "looked_up": 25,
+  "drawn": 24,
+  "by_tier": {
+   "addon": 20,
+   "default": 5
+  },
+  "free_by_tier": {
+   "addon": 20,
+   "default": 4
+  },
+  "nearest_photo": [
+   "nature/blendsandgrass008a",
+   "nature/dirtfloor008a",
+   "nature/grassfloor002a"
+  ]
+ },
+ "models": {
+  "looked_up": 109,
+  "by_tier": {
+   "category": 21,
+   "default": 88
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 19,
+  "entities": 3165,
+  "by_tier": {
+   "default": 19
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "VanderAGSN",
- "attribution": "Geometry converted from rp_asheville, https://steamcommunity.com/sharedfiles/filedetails/?id=2595136841 by VanderAGSN. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from rp_asheville, https://steamcommunity.com/sharedfiles/filedetails/?id=2595136841 by VanderAGSN. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   -222.447,
   1.0,
@@ -8850,6 +8850,23 @@
    "why": "building interior and yard ground the survey cannot reach"
   }
  ],
+ "world": {
+  "pack": "pg_world_asheville",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   0.93345,
+   0.0
+  ],
+  "crop": [
+   -277.4,
+   -226.0,
+   -167.4,
+   -116.0,
+   -15.93345,
+   44.06655
+  ]
+ },
  "source_frame": {
   "map": "rp_asheville.bsp",
   "sha256": "81cd1c4d3f0791beab1e434f03d88f9974c6a30b46bd0b59b535bb1206ac971a",

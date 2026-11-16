@@ -1,0 +1,97 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gm_fork",
+ "sha256": "a2e3dadf59e4c2aa62d38785a0f542b6eb612524ff0f6e6d70d34d61b51af52a",
+ "textures": {
+  "looked_up": 15,
+  "drawn": 16,
+  "by_tier": {
+   "addon": 8,
+   "default": 7
+  },
+  "free_by_tier": {
+   "addon": 16
+  },
+  "nearest_photo": [
+   "brick/brickwall048a",
+   "concrete/concretewall_bunker04b",
+   "fork/cliff04c",
+   "nature/blendgrassgravel01",
+   "wood/shingles001",
+   "wood/shingles001a",
+   "wood/woodwall048_roof"
+  ]
+ },
+ "models": {
+  "looked_up": 295,
+  "by_tier": {
+   "category": 26,
+   "default": 252,
+   "fallback": 13,
+   "skybox": 4
+  }
+ },
+ "sounds": {
+  "looked_up": 5,
+  "by_tier": {
+   "default": 4,
+   "fallback": 1
+  }
+ },
+ "classes": {
+  "distinct": 37,
+  "entities": 3993,
+  "by_tier": {
+   "default": 37
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 30,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [
+   "fork/railroads/curve_90_2048a.mdl",
+   "fork/railroads/switch_1024a.mdl",
+   "fork/railroads/switch_1024a_switch.mdl",
+   "props_docks/canal_dock02a.mdl",
+   "props_docks/canal_dock03a.mdl",
+   "props_junk/flare.mdl",
+   "props_rooftop/end_parliament_dome.mdl",
+   "props_silo/fuel_cask.mdl",
+   "props_silo/silo_tower01.mdl",
+   "props_trainstation/flatcar.mdl",
+   "props_trainstation/mount_connection001a.mdl",
+   "props_trainstation/trainstation_ornament001.mdl",
+   "props_trainstation/trainstation_ornament002.mdl"
+  ],
+  "sounds_unmapped": [
+   "town.d1_town_02_squeekmove1"
+  ],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "lua_run.RunCode"
+  ],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 13,
+  "sounds_unmapped": 1,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 1,
+  "surfaces_opaque": 0
+ }
+}

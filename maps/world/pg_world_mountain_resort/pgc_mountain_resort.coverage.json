@@ -1,0 +1,214 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gm_mountainresort",
+ "sha256": "e65ea7f4889c63d4e0e4a237768527d5e7efef2b13edf97b896b74ac52d89bda",
+ "textures": {
+  "looked_up": 169,
+  "drawn": 170,
+  "by_tier": {
+   "addon": 56,
+   "default": 113
+  },
+  "free_by_tier": {
+   "addon": 150,
+   "default": 20
+  },
+  "nearest_photo": [
+   "brick/brickwall034a",
+   "brick/brickwall056a",
+   "carpet/carpet_swirls",
+   "ce/brick/brick01",
+   "ce/gem/egem_home",
+   "ce/grass/grass_01",
+   "ce/grass/grass_02",
+   "ce/marble/marble_01",
+   "ce/marble/poolmarble_01",
+   "ce/poster/02post",
+   "ce/poster/04post",
+   "ce/poster/05post",
+   "ce/poster/06post",
+   "ce/poster/07post",
+   "ce/poster/08post",
+   "ce/pvc/pvc_01",
+   "ce/signs/highvoltage",
+   "ce/wood/sodoma01",
+   "ce/wood/sodoma02",
+   "ce/wood/sodoma03",
+   "concrete/concretewall013d",
+   "concrete/concretewall039a",
+   "concrete/curbredafire",
+   "cs_havana/door03",
+   "fda/tile/tile_09",
+   "fda/tile/tile_25",
+   "fda/tile/tile_27",
+   "fda/wall/wall_01",
+   "grass_dirt_1a_to_concrete_base_5",
+   "hostel/wood/door04",
+   "hostel/wood/floor02",
+   "metal/bunker_metalwall01b",
+   "metal/bunker_metalwall02a",
+   "metal/metalhull009b",
+   "metal/metalwall058a_cheap",
+   "metal/metalwall_silo01b",
+   "metal/prodventa",
+   "milkman/tile5",
+   "nature/blendrockdirt006b_lowfrict",
+   "nature/infskybox02",
+   "plaster/milwall001",
+   "plaster/plasterwall051c",
+   "plaster/plasterwall051d",
+   "plaster_1_white_hs",
+   "props/metalpanel003a",
+   "realworldtextures/floor/floor_1_13",
+   "realworldtextures/floor/mixtile/solid/black",
+   "realworldtextures/floor/mixtile/solid/blue4",
+   "realworldtextures/floor/mixtile/solid/red2",
+   "realworldtextures/new/boycarpetblue",
+   "realworldtextures/new/carpetl5",
+   "realworldtextures/new/wall_b03",
+   "realworldtextures/newer/0/concrete_0_10",
+   "realworldtextures/newer/1/brick_1_08",
+   "realworldtextures/newer/1/carpet_1_03",
+   "realworldtextures/newer/1/concrete_1_03",
+   "realworldtextures/newer/1/roof_1_01",
+   "realworldtextures/newer/1/roof_1_04",
+   "realworldtextures/newer/1/wood_1_04",
+   "realworldtextures/newer/1/wood_1_11",
+   "realworldtextures/newer/1/wood_1_12",
+   "realworldtextures/newer/1/wood_1_13",
+   "realworldtextures/newer/1/wood_1_17",
+   "realworldtextures/newer/2/wood_2_01",
+   "realworldtextures/newer/2/wood_2_04",
+   "realworldtextures/newer/2/wood_2_06",
+   "realworldtextures/newer/3/tile_3_06",
+   "realworldtextures/newer/3/tile_3_11",
+   "realworldtextures/walls/adobesand",
+   "realworldtextures/walls/amsterdam",
+   "realworldtextures/walls/burreeds",
+   "realworldtextures/walls/capecodgray",
+   "realworldtextures/walls/colonialblue",
+   "realworldtextures/walls/coralsand",
+   "realworldtextures/walls/mistysurf",
+   "realworldtextures/walls/nopal",
+   "realworldtextures/walls/traditionalblue",
+   "realworldtextures/walls/westernwhite",
+   "realworldtextures/walls/winningred",
+   "realworldtextures2/ground/brick_path_04",
+   "realworldtextures2/ground/carpet_11",
+   "realworldtextures2/marble/marble_01",
+   "realworldtextures2/tile/tile_02",
+   "realworldtextures2/tile/tile_03",
+   "realworldtextures2/wood/blinds/blinds_06",
+   "realworldtextures2/wood/blinds/blinds_06_black",
+   "realworldtextures2/wood/wood_09",
+   "realworldtextures2/wood/wood_34",
+   "realworldtextures2/wood/wood_35",
+   "realworldtextures2/wood/wood_51",
+   "resort/woodbar_wall",
+   "stone/stonecolumn001a",
+   "stone/stonewall013a",
+   "tl/carpet02",
+   "tl/tile02",
+   "wood/ep2_woodfloor01",
+   "wood/wooddoor007a"
+  ]
+ },
+ "models": {
+  "looked_up": 380,
+  "by_tier": {
+   "category": 48,
+   "default": 330,
+   "skybox": 2
+  }
+ },
+ "sounds": {
+  "looked_up": 66,
+  "by_tier": {
+   "default": 54,
+   "fallback": 12
+  }
+ },
+ "classes": {
+  "distinct": 55,
+  "entities": 2390,
+  "by_tier": {
+   "default": 55
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "func_rot_button": [
+    "StartDisabled"
+   ],
+   "prop_dynamic": [
+    "ignorenormals"
+   ],
+   "prop_physics": [
+    "ignorenormals"
+   ],
+   "prop_physics_override": [
+    "ignorenormals"
+   ],
+   "trigger_push": [
+    "FallingSpeedThreshold"
+   ]
+  }
+ },
+ "links": {
+  "total": 660,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [
+   "ambient/animal/bird17.wav",
+   "ambient/animal/bird18.wav",
+   "ambient/levels/forest/chicka3.wav",
+   "ambient/levels/forest/chirp1.wav",
+   "ambient/levels/forest/flit1.wav",
+   "ambient/levels/forest/squeek2.wav",
+   "ambient/tones/garage.wav",
+   "ambient/tones/pipes.wav",
+   "ambient/tones/pipes2.wav",
+   "home - resonance (horseshoe theory remake).wav",
+   "loudspark",
+   "weapons/ar2/ar2_empty.wav"
+  ],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "func_rot_button.StartDisabled",
+   "prop_dynamic.ignorenormals",
+   "prop_physics.ignorenormals",
+   "prop_physics_override.ignorenormals",
+   "trigger_push.FallingSpeedThreshold"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "func_button.Press",
+   "func_button.PressIn",
+   "func_rot_button.Press",
+   "func_rot_button.PressIn",
+   "func_rot_button.PressOut",
+   "func_water_analog.Close",
+   "func_water_analog.Open"
+  ],
+  "surfaces_opaque": [
+   "realworldtextures2/wood/blinds/blinds_06"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 12,
+  "classes_unmapped": 0,
+  "keys_unmapped": 5,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 7,
+  "surfaces_opaque": 1
+ }
+}

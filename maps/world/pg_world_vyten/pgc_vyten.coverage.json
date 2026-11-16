@@ -1,0 +1,92 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gm_vyten",
+ "sha256": "8df8a52760f49b48458acf5268bf5d4aa73f77fd80b9a9e98d080944ce4f4974",
+ "textures": {
+  "looked_up": 36,
+  "drawn": 33,
+  "by_tier": {
+   "addon": 27,
+   "default": 9
+  },
+  "free_by_tier": {
+   "addon": 33
+  },
+  "nearest_photo": [
+   "brick/brickwall031d",
+   "concrete/concretewall065b",
+   "dev/dev_measuregeneric17",
+   "dev/dev_measuregeneric35",
+   "dev/dev_measuregeneric46",
+   "gm_vyten/vyten_snow003a",
+   "plaster/plasterwall007d",
+   "tile/tilestair002a"
+  ]
+ },
+ "models": {
+  "looked_up": 112,
+  "by_tier": {
+   "category": 7,
+   "default": 104,
+   "fallback": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 6,
+  "by_tier": {
+   "default": 6
+  }
+ },
+ "classes": {
+  "distinct": 45,
+  "entities": 6361,
+  "by_tier": {
+   "default": 44,
+   "fallback": 1
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "prop_scalable": [
+    "modelscale"
+   ]
+  }
+ },
+ "links": {
+  "total": 403,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [
+   "props/props_custom_zacko/russian_flag.mdl"
+  ],
+  "sounds_unmapped": [],
+  "classes_unmapped": [
+   "prop_scalable"
+  ],
+  "keys_unmapped": [
+   "prop_scalable.modelscale"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_tonemap_controller.SetTonemapRate",
+   "lua_run.RunCode"
+  ],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 1,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 1,
+  "keys_unmapped": 1,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 2,
+  "surfaces_opaque": 0
+ }
+}

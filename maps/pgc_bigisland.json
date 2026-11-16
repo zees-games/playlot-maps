@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "Comrade Stinger and Hiyu",
- "attribution": "Geometry converted from gm_bigisland, https://steamcommunity.com/sharedfiles/filedetails/?id=169600867 by Comrade Stinger and Hiyu. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from gm_bigisland, https://steamcommunity.com/sharedfiles/filedetails/?id=169600867 by Comrade Stinger and Hiyu. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   -62.814,
   1.0,
@@ -18431,6 +18431,23 @@
    "why": "island ground the cut leaves behind a dune or cliff no walk climbs (surveyed unreached, not a trap)"
   }
  ],
+ "world": {
+  "pack": "pg_world_bigisland",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   -2.77534,
+   0.0
+  ],
+  "crop": [
+   -117.8,
+   -118.9,
+   -7.8,
+   -8.9,
+   -17.22466,
+   47.77534
+  ]
+ },
  "source_frame": {
   "map": "gm_bigisland.bsp",
   "sha256": "06015717fb26edbf90b3660ec37ce8d8d28823c04f8b3d2f27ffe1b9585ed84c",

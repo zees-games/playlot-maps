@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "Lg",
- "attribution": "Geometry converted from gm_balkans, https://steamcommunity.com/sharedfiles/filedetails/?id=1307357127 by Lg. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from gm_balkans, https://steamcommunity.com/sharedfiles/filedetails/?id=1307357127 by Lg. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   -238.963,
   1.0,
@@ -16451,6 +16451,23 @@
    "why": "a roof, ledge or room the converter leaves without a climb or a door (surveyed unreached, not a trap)"
   }
  ],
+ "world": {
+  "pack": "pg_world_balkans",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   -39.30015,
+   0.0
+  ],
+  "crop": [
+   -294.0,
+   -308.6,
+   -184.0,
+   -198.6,
+   24.30015,
+   84.30015
+  ]
+ },
  "source_frame": {
   "map": "gm_balkans.bsp",
   "sha256": "1285886e3ddcd2eebb5f18e6dcabbe81e5057043ab75ac73d808da217cfc4762",

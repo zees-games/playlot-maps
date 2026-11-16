@@ -1,0 +1,77 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "gm_bigisland",
+ "sha256": "06015717fb26edbf90b3660ec37ce8d8d28823c04f8b3d2f27ffe1b9585ed84c",
+ "textures": {
+  "looked_up": 9,
+  "drawn": 12,
+  "by_tier": {
+   "addon": 1,
+   "default": 8
+  },
+  "free_by_tier": {
+   "addon": 10,
+   "default": 2
+  },
+  "nearest_photo": [
+   "island/blend_cliffcliff2",
+   "island/blend_cliffgrass",
+   "island/blend_cliffsand",
+   "island/blend_grassleaves",
+   "island/blend_sandgrass",
+   "island/blend_sandwatersand"
+  ]
+ },
+ "models": {
+  "looked_up": 41,
+  "by_tier": {
+   "category": 11,
+   "default": 30
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 27,
+  "entities": 3526,
+  "by_tier": {
+   "default": 26,
+   "fallback": 1
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 20,
+  "unresolved": 0
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [
+   "info_projecteddecal"
+  ],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 1,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

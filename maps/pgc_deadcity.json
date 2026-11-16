@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "NuclearGhost",
- "attribution": "Geometry converted from rp_deadcity, https://steamcommunity.com/sharedfiles/filedetails/?id=1864156937 by NuclearGhost. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from rp_deadcity, https://steamcommunity.com/sharedfiles/filedetails/?id=1864156937 by NuclearGhost. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   12.192,
   1.0,
@@ -12822,6 +12822,23 @@
    "why": "a drain corner"
   }
  ],
+ "world": {
+  "pack": "pg_world_deadcity",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   0.0762,
+   0.0
+  ],
+  "crop": [
+   -42.8,
+   -142.2,
+   67.2,
+   -32.2,
+   -15.0762,
+   44.9238
+  ]
+ },
  "source_frame": {
   "map": "rp_deadcity.bsp",
   "sha256": "56cce701e85ae388ed36d4cfa49c420f304055b777a83cc7e17b32c84d106848",

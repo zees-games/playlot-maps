@@ -1,0 +1,121 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "rp_deadcity",
+ "sha256": "56cce701e85ae388ed36d4cfa49c420f304055b777a83cc7e17b32c84d106848",
+ "textures": {
+  "looked_up": 38,
+  "drawn": 38,
+  "by_tier": {
+   "default": 38
+  },
+  "free_by_tier": {
+   "addon": 35,
+   "default": 3
+  },
+  "nearest_photo": [
+   "limansk/limansk_asfalt",
+   "limansk/limansk_asfalt2_wvt_patch",
+   "limansk/limansk_asfalt_wvt_patch",
+   "limansk/limansk_terrain",
+   "limansk/limansk_terrain2",
+   "z-o-m-b-i-e/stalker/crete/crete_beton_7",
+   "z-o-m-b-i-e/stalker/crete/crete_dirt_1",
+   "z-o-m-b-i-e/stalker/crete/crete_pot_gr",
+   "z-o-m-b-i-e/stalker/crete/crete_stena_04d",
+   "z-o-m-b-i-e/stalker/crete/crete_walls_old_01",
+   "z-o-m-b-i-e/stalker/crete/crete_walls_rg10",
+   "z-o-m-b-i-e/stalker/crete_roof_gr01",
+   "z-o-m-b-i-e/stalker/door/door_gr1",
+   "z-o-m-b-i-e/stalker/door/door_gr2",
+   "z-o-m-b-i-e/stalker/floor/floor_tile_03",
+   "z-o-m-b-i-e/stalker/gr/gr_22",
+   "z-o-m-b-i-e/stalker/grnd/grnd_dry_gr",
+   "z-o-m-b-i-e/stalker/grnd/grnd_dry_gr_01",
+   "z-o-m-b-i-e/stalker/roof/roof_schiffer_01",
+   "z-o-m-b-i-e/stalker/roof/roof_smola",
+   "z-o-m-b-i-e/stalker/ston/ston_beton_floor_iov_01",
+   "z-o-m-b-i-e/stalker/ston/ston_beton_pod_03_border",
+   "z-o-m-b-i-e/stalker/ston/ston_beton_potolok_contrast_iov",
+   "z-o-m-b-i-e/stalker/ston/ston_beton_stena_iov",
+   "z-o-m-b-i-e/stalker/ston/ston_kirpichi_a",
+   "z-o-m-b-i-e/stalker/ston/ston_stena_04a",
+   "z-o-m-b-i-e/stalker/ston/ston_stena_04d",
+   "z-o-m-b-i-e/stalker/ston/ston_stuccowall_iov_01",
+   "z-o-m-b-i-e/stalker/ston/ston_walls4",
+   "z-o-m-b-i-e/stalker/tile/tile_walls_red_01",
+   "z-o-m-b-i-e/stalker/tile/tile_walls_rg01",
+   "z-o-m-b-i-e/stalker/tile/tile_walls_rg01_black",
+   "z-o-m-b-i-e/stalker/tile/tile_white_02",
+   "z-o-m-b-i-e/stalker/wall/wall_ceiling_01",
+   "z-o-m-b-i-e/stalker/wall/wall_stucco_10"
+  ]
+ },
+ "models": {
+  "looked_up": 293,
+  "by_tier": {
+   "category": 190,
+   "default": 103
+  }
+ },
+ "sounds": {
+  "looked_up": 15,
+  "by_tier": {
+   "default": 15
+  }
+ },
+ "classes": {
+  "distinct": 30,
+  "entities": 5917,
+  "by_tier": {
+   "default": 30
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 292,
+  "unresolved": 16
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [
+   "func_button.OnPressed->day_color",
+   "logic_case.OnCase01->blowout_beam1",
+   "logic_case.OnCase01->psi_antenna_elec1",
+   "logic_case.OnCase01->psi_antenna_elec5",
+   "logic_case.OnCase01->psi_antenna_elec9",
+   "logic_case.OnCase02->blowout_beam2",
+   "logic_case.OnCase02->psi_antenna_elec10",
+   "logic_case.OnCase02->psi_antenna_elec2",
+   "logic_case.OnCase02->psi_antenna_elec6",
+   "logic_case.OnCase03->blowout_beam3",
+   "logic_case.OnCase03->psi_antenna_elec11",
+   "logic_case.OnCase03->psi_antenna_elec3",
+   "logic_case.OnCase03->psi_antenna_elec7",
+   "logic_case.OnCase04->psi_antenna_elec12",
+   "logic_case.OnCase04->psi_antenna_elec4",
+   "logic_case.OnCase04->psi_antenna_elec8"
+  ],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 16,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0
+ }
+}

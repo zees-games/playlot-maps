@@ -1,0 +1,305 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "ttt_rooftops_2016_v1",
+ "sha256": "244f3817acae191774882fb2e2937b6ba73b0645e1e36de8fc395608a78827fd",
+ "textures": {
+  "looked_up": 197,
+  "drawn": 197,
+  "by_tier": {
+   "addon": 131,
+   "default": 66
+  },
+  "free_by_tier": {
+   "addon": 188,
+   "default": 8
+  },
+  "nearest_photo": [
+   "brick/brickwall003d",
+   "brick/brickwall031b",
+   "brick/brickwall031d",
+   "brick/brickwall048i",
+   "brick/brickwall052c",
+   "brick/offwlld",
+   "building_template/building_template001k",
+   "building_template/building_template002a",
+   "building_template/building_template002c",
+   "building_template/building_template002f",
+   "building_template/building_template002i",
+   "building_template/building_template003a",
+   "building_template/building_template003b",
+   "building_template/building_template003i",
+   "building_template/building_template004a",
+   "building_template/building_template004b",
+   "building_template/building_template004h",
+   "building_template/building_template006a",
+   "building_template/building_template007f",
+   "building_template/building_template010a",
+   "building_template/building_template013o",
+   "building_template/building_template014g",
+   "building_template/building_template029a",
+   "concrete/concretefloor028a_c17",
+   "concrete/concretewall044a",
+   "concrete/prodflrd",
+   "cs_italy/wallpaper02a",
+   "de_cbble/rooftile02",
+   "de_chateau/speakerslg",
+   "de_piranesi/marblefloor10",
+   "de_piranesi/stairoutdoor02",
+   "de_train/blendgrassdirt001a_wvt_patch",
+   "dev/dev_stonewall001a",
+   "halflife/lab1_panel1d",
+   "map/billboard4",
+   "map/building_template006b_rooftops",
+   "map/concretefloor_rooftops",
+   "map/helipad",
+   "map/radio/heman_sings",
+   "map/radio/magnum pi",
+   "map/radio/ride of the valkyries",
+   "map/radio/safety dance",
+   "map/radio/what is love",
+   "map/radio/youre the best",
+   "map/rooftopsblack",
+   "map/tileroof004_rooftops",
+   "metal/citadel_metalwall077a",
+   "metal/drtrima",
+   "metal/ibeama",
+   "metal/prodibeama",
+   "plaster/infplasterwall044b",
+   "plaster/infplasterwall044d",
+   "plaster/infwllm",
+   "plaster/plasterceiling008a_c17",
+   "plaster/plasterwall043c",
+   "plaster/prodceilinga",
+   "props/metalpanel003a",
+   "props/plasticexitsign002a",
+   "props/signstreet004a",
+   "skybox/misc/mothership_light",
+   "stone/infbaseb",
+   "stone/stonetrim001a",
+   "tile/ceilingtilea",
+   "ttt/credits/credits_final",
+   "ttt/credits/sign",
+   "ttt/traitor/axe_sign",
+   "wood/infceilinga"
+  ]
+ },
+ "models": {
+  "looked_up": 255,
+  "by_tier": {
+   "category": 16,
+   "default": 234,
+   "skybox": 5
+  }
+ },
+ "sounds": {
+  "looked_up": 142,
+  "by_tier": {
+   "default": 117,
+   "fallback": 25
+  }
+ },
+ "classes": {
+  "distinct": 101,
+  "entities": 4395,
+  "by_tier": {
+   "default": 100,
+   "fallback": 1
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "npc_citizen": [
+    "ammoamount",
+    "ammosupply",
+    "citizentype",
+    "neverleaveplayersquad",
+    "notifynavfailblocked"
+   ],
+   "ttt_credit_adjust": [
+    "credits"
+   ],
+   "ttt_damageowner": [
+    "damager",
+    "killname"
+   ],
+   "ttt_game_text": [
+    "color",
+    "message",
+    "receive"
+   ],
+   "ttt_logic_role": [
+    "Role"
+   ],
+   "ttt_map_settings": [
+    "cbar_buttons",
+    "cbar_doors",
+    "cbar_other"
+   ],
+   "ttt_random_weapon": [
+    "auto_ammo"
+   ],
+   "ttt_traitor_button": [
+    "RemoveOnPress",
+    "UsableRange",
+    "description",
+    "spawnflags",
+    "wait"
+   ],
+   "weapon_ttt_confgrenade": [
+    "spawnflags"
+   ],
+   "weapon_ttt_glock": [
+    "spawnflags"
+   ],
+   "weapon_ttt_m16": [
+    "spawnflags"
+   ],
+   "weapon_ttt_smokegrenade": [
+    "spawnflags"
+   ],
+   "weapon_zm_mac10": [
+    "spawnflags"
+   ],
+   "weapon_zm_molotov": [
+    "spawnflags"
+   ],
+   "weapon_zm_pistol": [
+    "spawnflags"
+   ],
+   "weapon_zm_revolver": [
+    "spawnflags"
+   ],
+   "weapon_zm_rifle": [
+    "spawnflags"
+   ],
+   "weapon_zm_shotgun": [
+    "spawnflags"
+   ],
+   "weapon_zm_sledge": [
+    "spawnflags"
+   ]
+  }
+ },
+ "links": {
+  "total": 2722,
+  "unresolved": 1
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [
+   "ambient/levels/citadel/citadel_flyer1.wav",
+   "ambient/levels/citadel/citadel_hit1_adpcm.wav",
+   "ambient/levels/citadel/extract_loop1.wav",
+   "ambient/levels/citadel/field_loop1.wav",
+   "ambient/levels/citadel/field_loop2.wav",
+   "ambient/levels/citadel/field_loop3.wav",
+   "ambient/levels/citadel/strange_talk1.wav",
+   "ambient/levels/citadel/strange_talk10.wav",
+   "ambient/levels/citadel/strange_talk11.wav",
+   "ambient/levels/citadel/strange_talk4.wav",
+   "ambient/levels/citadel/strange_talk5.wav",
+   "ambient/levels/citadel/strange_talk6.wav",
+   "ambient/levels/citadel/strange_talk7.wav",
+   "ambient/levels/citadel/strange_talk8.wav",
+   "ambient/levels/citadel/weapon_disintegrate1.wav",
+   "ambient/levels/citadel/weapon_disintegrate2.wav",
+   "ambient/levels/citadel/weapon_disintegrate3.wav",
+   "ambient/levels/citadel/weaponstrip1_adpcm.wav",
+   "ambient/levels/citadel/zapper_ambient_loop1.wav",
+   "ambient/levels/citadel/zapper_loop1.wav",
+   "items/battery_pickup.wav",
+   "weapons/physcannon/physcannon_charge.wav",
+   "weapons/physcannon/physcannon_claws_open.wav",
+   "weapons/physcannon/superphys_hold_loop.wav",
+   "weapons/physcannon/superphys_small_zap4.wav"
+  ],
+  "classes_unmapped": [
+   "game_zone_player"
+  ],
+  "keys_unmapped": [
+   "npc_citizen.ammoamount",
+   "npc_citizen.ammosupply",
+   "npc_citizen.citizentype",
+   "npc_citizen.neverleaveplayersquad",
+   "npc_citizen.notifynavfailblocked",
+   "ttt_credit_adjust.credits",
+   "ttt_damageowner.damager",
+   "ttt_damageowner.killname",
+   "ttt_game_text.color",
+   "ttt_game_text.message",
+   "ttt_game_text.receive",
+   "ttt_logic_role.Role",
+   "ttt_map_settings.cbar_buttons",
+   "ttt_map_settings.cbar_doors",
+   "ttt_map_settings.cbar_other",
+   "ttt_random_weapon.auto_ammo",
+   "ttt_traitor_button.RemoveOnPress",
+   "ttt_traitor_button.UsableRange",
+   "ttt_traitor_button.description",
+   "ttt_traitor_button.spawnflags",
+   "ttt_traitor_button.wait",
+   "weapon_ttt_confgrenade.spawnflags",
+   "weapon_ttt_glock.spawnflags",
+   "weapon_ttt_m16.spawnflags",
+   "weapon_ttt_smokegrenade.spawnflags",
+   "weapon_zm_mac10.spawnflags",
+   "weapon_zm_molotov.spawnflags",
+   "weapon_zm_pistol.spawnflags",
+   "weapon_zm_revolver.spawnflags",
+   "weapon_zm_rifle.spawnflags",
+   "weapon_zm_shotgun.spawnflags",
+   "weapon_zm_sledge.spawnflags"
+  ],
+  "links_unresolved": [
+   "logic_auto.OnMapSpawn->player"
+  ],
+  "inputs_unimplemented": [
+   "ai_changetarget.Activate",
+   "color_correction.SetFadeOutDuration",
+   "func_breakable.EnableDamageForces",
+   "func_button.Press",
+   "func_button.PressIn",
+   "func_button.PressOut",
+   "func_occluder.Deactivate",
+   "func_smokevolume.SetDensity",
+   "func_water_analog.Open",
+   "func_water_analog.SetPosition",
+   "func_water_analog.SetSpeed",
+   "game_zone_player.CountPlayersInZone",
+   "info_target.SetParentAttachment",
+   "npc_template_maker.Spawn",
+   "path_track.EnableAlternatePath",
+   "path_track.EnablePath",
+   "point_spotlight.LightOff",
+   "point_spotlight.LightOn",
+   "point_teleport.Teleport",
+   "prop_dynamic.EnableCollision",
+   "prop_dynamic.SetPlaybackRate",
+   "prop_physics.Alpha",
+   "prop_physics.SetParentAttachment",
+   "ttt_credit_adjust.TakeCredits",
+   "ttt_damageowner.ClearDamageOwner",
+   "ttt_damageowner.SetActivatorAsDamageOwner",
+   "ttt_game_text.Display",
+   "ttt_logic_role.TestActivator",
+   "ttt_traitor_button.Lock",
+   "ttt_traitor_button.Unlock"
+  ],
+  "surfaces_opaque": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 25,
+  "classes_unmapped": 1,
+  "keys_unmapped": 32,
+  "links_unresolved": 1,
+  "inputs_unimplemented": 30,
+  "surfaces_opaque": 0
+ }
+}

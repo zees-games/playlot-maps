@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "SuspiciouslyAwesome (Tim Richter)",
- "attribution": "Geometry converted from gm_valley, https://steamcommunity.com/sharedfiles/filedetails/?id=104483504 by SuspiciouslyAwesome (Tim Richter). The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from gm_valley, https://steamcommunity.com/sharedfiles/filedetails/?id=104483504 by SuspiciouslyAwesome (Tim Richter). Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   112.186,
   1.0,
@@ -7846,6 +7846,23 @@
    "why": "a ledge on the hall's far side"
   }
  ],
+ "world": {
+  "pack": "pg_world_valley",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   -0.0,
+   0.0
+  ],
+  "crop": [
+   57.2,
+   0.7,
+   167.2,
+   110.7,
+   -15.0,
+   45.0
+  ]
+ },
  "source_frame": {
   "map": "gm_valley.bsp",
   "sha256": "a3d7265751a86d39652e41ecea103b4d65aefaf9554bc3eb58fa9af41ac9f5d8",

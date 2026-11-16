@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "Blueberry_pie",
- "attribution": "Geometry converted from gm_fork, https://steamcommunity.com/sharedfiles/filedetails/?id=326332456 by Blueberry_pie. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from gm_fork, https://steamcommunity.com/sharedfiles/filedetails/?id=326332456 by Blueberry_pie. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   0.0,
   1.0,
@@ -4225,6 +4225,23 @@
    "why": "a roof, ledge or room the converter leaves without a climb or a door (surveyed unreached, not a trap)"
   }
  ],
+ "world": {
+  "pack": "pg_world_fork",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   146.32305,
+   0.0
+  ],
+  "crop": [
+   -55.0,
+   232.1,
+   55.0,
+   342.1,
+   -161.32305,
+   -101.32305
+  ]
+ },
  "source_frame": {
   "map": "gm_fork.bsp",
   "sha256": "a2e3dadf59e4c2aa62d38785a0f542b6eb612524ff0f6e6d70d34d61b51af52a",

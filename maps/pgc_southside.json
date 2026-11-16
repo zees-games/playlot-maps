@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "Fishke",
- "attribution": "Geometry converted from rp_southside, https://steamcommunity.com/sharedfiles/filedetails/?id=2010286798 by Fishke. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from rp_southside, https://steamcommunity.com/sharedfiles/filedetails/?id=2010286798 by Fishke. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   12.497,
   1.0,
@@ -33375,6 +33375,23 @@
    "why": "a roof, ledge or room the converter leaves without a climb or a door (surveyed unreached, not a trap)"
   }
  ],
+ "world": {
+  "pack": "pg_world_southside",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   1.96215,
+   0.0
+  ],
+  "crop": [
+   -42.5,
+   -65.4,
+   67.5,
+   44.6,
+   -16.96215,
+   43.03785
+  ]
+ },
  "source_frame": {
   "map": "rp_southside.bsp",
   "sha256": "8fa11a5a53843135b32f708dd6bd2ee9604bfe6298ddb643448592e3a5d1e2e2",

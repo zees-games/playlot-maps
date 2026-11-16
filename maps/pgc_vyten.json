@@ -7,7 +7,7 @@
  "map_kind": "sandbox",
  "tier": 1,
  "author": "Raxten",
- "attribution": "Geometry converted from gm_vyten, https://steamcommunity.com/sharedfiles/filedetails/?id=1449731878 by Raxten. The author's textures are not carried: surfaces use this game's materials over Kenney's Prototype Textures (CC0). The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
+ "attribution": "Converted from gm_vyten, https://steamcommunity.com/sharedfiles/filedetails/?id=1449731878 by Raxten. Drawn from the map's own geometry with free (CC0) textures and stand-in models, listed in its world pack's credits; the author's textures and models are not carried. The author can have this conversion removed: contact https://github.com/zees-games/playlot-maps/issues.",
  "spawn": [
   -198.425,
   1.0,
@@ -31529,6 +31529,23 @@
    "why": "a roof, ledge or room the converter leaves without a climb or a door (surveyed unreached, not a trap)"
   }
  ],
+ "world": {
+  "pack": "pg_world_vyten",
+  "metres_per_unit": 0.01905,
+  "offset": [
+   0.0,
+   -242.7732,
+   0.0
+  ],
+  "crop": [
+   -253.4,
+   129.1,
+   -143.4,
+   239.1,
+   227.7732,
+   287.7732
+  ]
+ },
  "source_frame": {
   "map": "gm_vyten.bsp",
   "sha256": "8df8a52760f49b48458acf5268bf5d4aa73f77fd80b9a9e98d080944ce4f4974",
