@@ -115,11 +115,11 @@
   ]
  },
  "models": {
-  "looked_up": 380,
+  "looked_up": 385,
   "by_tier": {
    "category": 48,
    "default": 330,
-   "skybox": 2
+   "skybox": 7
   }
  },
  "sounds": {

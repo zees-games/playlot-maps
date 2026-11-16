@@ -29,9 +29,9 @@
  "models": {
   "looked_up": 542,
   "by_tier": {
-   "category": 68,
+   "category": 76,
    "default": 452,
-   "fallback": 21,
+   "parts": 13,
    "skybox": 1
   }
  },
@@ -75,29 +75,7 @@
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "boreas/exterior/road.mdl",
-   "boreas/radarstation/radome.mdl",
-   "gantry_crane/crane_controlbox.mdl",
-   "magnusson_teleporter_off.mdl",
-   "props_c17/hospital_ivstand01.mdl",
-   "props_c17/hospital_surgerylight01.mdl",
-   "props_lab/cleaver.mdl",
-   "props_lab/crematorcase.mdl",
-   "props_lab/crystalbulk.mdl",
-   "props_lab/labpart.mdl",
-   "props_lab/ladel.mdl",
-   "props_lab/miniteleport.mdl",
-   "props_lab/teleportbulkeli.mdl",
-   "props_mining/antlion_detector.mdl",
-   "props_silo/fuel_cask.mdl",
-   "props_silo/silo_server_a.mdl",
-   "props_silo/silo_server_b.mdl",
-   "props_silo/silo_server_c.mdl",
-   "props_silo/silo_server_d.mdl",
-   "props_silo/welding_helmet.mdl",
-   "vehicles/inner_pod_rotator.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [
    "artefact.attach",
    "artefact.degauss",
@@ -139,7 +117,7 @@
  "counts": {
   "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 21,
+  "models_unmapped": 0,
   "sounds_unmapped": 6,
   "classes_unmapped": 1,
   "keys_unmapped": 7,

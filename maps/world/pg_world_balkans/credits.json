@@ -667,16 +667,6 @@
   },
   {
    "kind": "model",
-   "name": "lib/ph_rusted_wheel_rim_01",
-   "author": "John Hutcheson",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rusted_wheel_rim_01",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 4
-  },
-  {
-   "kind": "model",
    "name": "lib/ph_steel_frame_shelves_03",
    "author": "Ulan Cabanilla",
    "licence": "CC0-1.0",

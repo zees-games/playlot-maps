@@ -85,11 +85,11 @@
   ]
  },
  "models": {
-  "looked_up": 255,
+  "looked_up": 259,
   "by_tier": {
    "category": 16,
    "default": 234,
-   "skybox": 5
+   "skybox": 9
   }
  },
  "sounds": {

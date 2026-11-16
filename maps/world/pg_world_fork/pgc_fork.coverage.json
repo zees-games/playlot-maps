@@ -24,12 +24,12 @@
   ]
  },
  "models": {
-  "looked_up": 295,
+  "looked_up": 304,
   "by_tier": {
-   "category": 26,
+   "category": 33,
    "default": 252,
-   "fallback": 13,
-   "skybox": 4
+   "parts": 6,
+   "skybox": 13
   }
  },
  "sounds": {
@@ -57,21 +57,7 @@
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "fork/railroads/curve_90_2048a.mdl",
-   "fork/railroads/switch_1024a.mdl",
-   "fork/railroads/switch_1024a_switch.mdl",
-   "props_docks/canal_dock02a.mdl",
-   "props_docks/canal_dock03a.mdl",
-   "props_junk/flare.mdl",
-   "props_rooftop/end_parliament_dome.mdl",
-   "props_silo/fuel_cask.mdl",
-   "props_silo/silo_tower01.mdl",
-   "props_trainstation/flatcar.mdl",
-   "props_trainstation/mount_connection001a.mdl",
-   "props_trainstation/trainstation_ornament001.mdl",
-   "props_trainstation/trainstation_ornament002.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [
    "town.d1_town_02_squeekmove1"
   ],
@@ -86,7 +72,7 @@
  "counts": {
   "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 13,
+  "models_unmapped": 0,
   "sounds_unmapped": 1,
   "classes_unmapped": 0,
   "keys_unmapped": 0,

@@ -603,7 +603,7 @@
    "url": "https://kenney.nl/assets/furniture-kit",
    "source": "Kenney Furniture Kit",
    "attribution": false,
-   "uses": 1238
+   "uses": 1235
   },
   {
    "kind": "model",
@@ -623,7 +623,7 @@
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 2077
+   "uses": 2076
   },
   {
    "kind": "model",
@@ -763,7 +763,7 @@
    "url": "https://kenney.nl/assets/car-kit",
    "source": "Kenney Car Kit",
    "attribution": false,
-   "uses": 539
+   "uses": 540
   },
   {
    "kind": "model",
@@ -824,16 +824,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 5
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_Megaphone_01",
-   "author": "Ethan Simon-Law",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/Megaphone_01",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 1
   },
   {
    "kind": "model",
@@ -1104,16 +1094,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 2
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_life_jacket",
-   "author": "PierreB3D",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/life_jacket",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 5
   },
   {
    "kind": "model",
