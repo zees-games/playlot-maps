@@ -22,4 +22,4 @@ done < "$HERE/tools/convert_sources.tsv"
 [ $fail -eq 0 ] || exit 1
 # The importer does not write the ambience row; build_maps.py --ambient patches it in (a re-import drops it).
 python3 -P "$HERE/tools/build_maps.py" --ambient
-DOT_MAP_CONVERT_PATH="${DOT_MAP_CONVERT_PATH:-${DOTBSP_PATH:-$HERE/../dot-map-convert}}" python3 -P "$HERE/tools/build_provides.py"
+GS_MAP_CONVERT_PATH="${GS_MAP_CONVERT_PATH:-${DOT_MAP_CONVERT_PATH:-${DOTBSP_PATH:-$HERE/../dot-map-convert}}}" python3 -P "$HERE/tools/build_provides.py"
