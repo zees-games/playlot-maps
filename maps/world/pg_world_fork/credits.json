@@ -1683,7 +1683,7 @@
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 1205
+   "uses": 277
   },
   {
    "kind": "model",
@@ -1977,6 +1977,16 @@
   },
   {
    "kind": "model",
+   "name": "lib/ph_dead_tree_trunk_02",
+   "author": "Jenelle van Heerden, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/dead_tree_trunk_02",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 13
+  },
+  {
+   "kind": "model",
    "name": "lib/ph_grass_medium_02",
    "author": "Rico Cilliers",
    "licence": "CC0-1.0",
@@ -2083,7 +2093,27 @@
    "url": "https://polyhaven.com/a/namaqualand_boulder_03",
    "source": "Poly Haven",
    "attribution": false,
-   "uses": 2
+   "uses": 36
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_namaqualand_boulder_04",
+   "author": "Jenelle van Heerden",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/namaqualand_boulder_04",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 97
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_namaqualand_cliff_02",
+   "author": "Dario Barresi, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/namaqualand_cliff_02",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 16
   },
   {
    "kind": "model",
@@ -2154,6 +2184,26 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_rock_face_01",
+   "author": "Dario Barresi",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rock_face_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 53
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_rock_moss_set_01",
+   "author": "Kless Gyzen",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rock_moss_set_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 64
   },
   {
    "kind": "model",
@@ -2363,7 +2413,7 @@
    "url": "https://sketchfab.com/3d-models/none-d45218a3fab349e5b1de040f29e7b6f9",
    "source": "Sketchfab",
    "attribution": true,
-   "uses": 294
+   "uses": 467
   },
   {
    "kind": "model",
@@ -2373,7 +2423,7 @@
    "url": "https://sketchfab.com/3d-models/none-d71ceeb303644e649d09fe8038aa5e47",
    "source": "Sketchfab",
    "attribution": true,
-   "uses": 139
+   "uses": 617
   },
   {
    "kind": "model",
