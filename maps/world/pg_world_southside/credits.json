@@ -87,16 +87,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_MetalPlates007",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=MetalPlates007",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 7
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Concrete041A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -497,16 +487,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete007",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete007",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 9
-  },
-  {
-   "kind": "texture",
    "name": "pbr_clay_plaster",
    "author": "Amal Kumar",
    "licence": "CC0-1.0",
@@ -604,6 +584,16 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete007",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete007",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 4
   },
   {
    "kind": "texture",

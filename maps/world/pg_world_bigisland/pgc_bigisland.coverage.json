@@ -5,14 +5,14 @@
  "sha256": "06015717fb26edbf90b3660ec37ce8d8d28823c04f8b3d2f27ffe1b9585ed84c",
  "textures": {
   "looked_up": 9,
-  "drawn": 12,
+  "drawn": 11,
   "by_tier": {
    "addon": 1,
    "default": 8
   },
   "free_by_tier": {
    "addon": 10,
-   "default": 2
+   "default": 1
   },
   "nearest_photo": [
    "island/blend_cliffcliff2",

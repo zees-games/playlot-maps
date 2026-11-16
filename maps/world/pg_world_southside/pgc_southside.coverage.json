@@ -5,20 +5,18 @@
  "sha256": "8fa11a5a53843135b32f708dd6bd2ee9604bfe6298ddb643448592e3a5d1e2e2",
  "textures": {
   "looked_up": 212,
-  "drawn": 208,
+  "drawn": 206,
   "by_tier": {
    "addon": 1,
    "default": 211
   },
   "free_by_tier": {
-   "addon": 189,
-   "default": 18
+   "addon": 185,
+   "default": 20
   },
   "nearest_photo": [
    "bc/de_highland_wall02",
    "bc/industry_bc_bw04",
-   "de_nuke/hr_nuke/hr_river_water_001",
-   "de_nuke/hr_nuke/hr_river_water_001_faster",
    "gci/dirtydoor_b",
    "metal/distressed_metal_panel_roof",
    "metal/metal_plate01",
@@ -137,11 +135,9 @@
    "unioncity2/miscellaneous/oldwoodfence",
    "unioncity2/miscellaneous/pdgrate",
    "unioncity2/miscellaneous/porchpillar",
-   "unioncity2/miscellaneous/riverwater_beneath",
    "unioncity2/miscellaneous/roadbarrier",
    "unioncity2/miscellaneous/roof_trim_a",
    "unioncity2/miscellaneous/sewerwater",
-   "unioncity2/miscellaneous/sewerwater_beneath",
    "unioncity2/miscellaneous/stainlesstrims",
    "unioncity2/miscellaneous/stairs01",
    "unioncity2/miscellaneous/streetdrains",

@@ -5,14 +5,14 @@
  "sha256": "6c593d99af7069669884c041bf9725e27646f63448ec5e4fef6eb57bb277d8d2",
  "textures": {
   "looked_up": 7,
-  "drawn": 7,
+  "drawn": 6,
   "by_tier": {
    "addon": 5,
    "default": 2
   },
   "free_by_tier": {
    "addon": 5,
-   "default": 2
+   "default": 1
   },
   "nearest_photo": []
  },
