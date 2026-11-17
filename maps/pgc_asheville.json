@@ -8848,6 +8848,19 @@
     -165.2
    ],
    "why": "building interior and yard ground the survey cannot reach"
+  },
+  {
+   "min": [
+    -235.6,
+    3.6,
+    -175.6
+   ],
+   "max": [
+    -214.5,
+    4.4,
+    -169.7
+   ],
+   "why": "crouch-height floor the converter leaves without a way in (surveyed unreached, not a trap)"
   }
  ],
  "world": {
@@ -8886,8 +8899,5 @@
    15.92,
    -129.62
   ]
- },
- "ambient": {
-  "level": 1.2
  }
 }

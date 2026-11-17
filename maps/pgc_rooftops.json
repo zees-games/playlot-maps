@@ -27201,6 +27201,32 @@
     -49.8
    ],
    "why": "a roof, ledge or room the converter leaves without a climb or a door (surveyed unreached, not a trap)"
+  },
+  {
+   "min": [
+    48.5,
+    11.3,
+    -38.1
+   ],
+   "max": [
+    49.1,
+    12.3,
+    -37.2
+   ],
+   "why": "crouch-height floor the converter leaves without a way in (surveyed unreached, not a trap)"
+  },
+  {
+   "min": [
+    49.7,
+    11.3,
+    -38.1
+   ],
+   "max": [
+    50.3,
+    12.3,
+    -37.2
+   ],
+   "why": "crouch-height floor the converter leaves without a way in (surveyed unreached, not a trap)"
   }
  ],
  "world": {
@@ -27239,8 +27265,5 @@
    29.869,
    29.261
   ]
- },
- "ambient": {
-  "level": 1.2
  }
 }
