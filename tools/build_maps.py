@@ -1872,6 +1872,7 @@ AMBIENT = {
     "pgc_boreas": (1.0, True),
     "pgc_bigisland": (1.3, True),
     "pgc_rooftops": (1.2, False),
+    "pgc_york": (1.1, False),
 }
 
 

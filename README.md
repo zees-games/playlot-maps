@@ -46,6 +46,7 @@ These are community maps converted with the author's credit. Only the geometry i
 | `pgc_southside` | South Side | Fishke | [rp_southside](https://steamcommunity.com/sharedfiles/filedetails/?id=2010286798) | Steam Workshop (no licence stated) |
 | `pgc_valley` | Valley | SuspiciouslyAwesome (Tim Richter) | [gm_valley](https://steamcommunity.com/sharedfiles/filedetails/?id=104483504) | Steam Workshop (no licence stated) |
 | `pgc_vyten` | Vyten | Raxten | [gm_vyten](https://steamcommunity.com/sharedfiles/filedetails/?id=1449731878) | Steam Workshop (no licence stated) |
+| `pgc_york` | York | MergasTroll | [gm_york](https://steamcommunity.com/sharedfiles/filedetails/?id=1727393665) | Steam Workshop (no licence stated) |
 
 The two GameBanana maps carry the site's default licence, CC BY-NC-ND 4.0, and are shared non-commercially with credit. The Workshop maps state no licence on their pages. All are credited here, and a map is taken down when its author asks: open an issue at https://github.com/zees-games/playlot-maps/issues.
 

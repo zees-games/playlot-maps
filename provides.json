@@ -196,6 +196,13 @@
             "name": "Warehouse",
             "scene": "maps/pgc_warehouse.json",
             "map_kind": "sandbox"
+        },
+        {
+            "kind": "map",
+            "id": "pgc_york",
+            "name": "York",
+            "scene": "maps/pgc_york.json",
+            "map_kind": "sandbox"
         }
     ]
 }
