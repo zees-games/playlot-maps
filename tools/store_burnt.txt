@@ -1,0 +1,9 @@
+# Refused by the dev site as already failed (HTTP 409), 2026-11-16
+gamemann/store-shared-0bb95ebe@h3ec5f366
+gamemann/store-shared-1211e122@h14011ccd
+gamemann/store-shared-12766fc3@h4d1c12f7
+gamemann/store-shared-62a1a70b@h6946e104
+gamemann/store-shared-6e24b59f@h33f859ae
+gamemann/store-shared-7d20105a@h1ca05c70
+gamemann/store-shared-84f06f92@hc680b4e9
+gamemann/store-shared-89232878@hcfb5ea29

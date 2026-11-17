@@ -25,13 +25,14 @@ def main():
     ap.add_argument("--token-file", required=True, help="a creator token of the slice owner (gamemann)")
     ap.add_argument("--project", required=True, help="the storepack project (its slices/<name> are the sources)")
     ap.add_argument("--dist", required=True, help="the storepack --dist (the locally signed manifests name each slice's dependencies)")
-    ap.add_argument("--origin", required=True, help="the content origin the site writes (dev: https://dev.dotgames.org/content)")
+    ap.add_argument("--origin", required=True, help="the content origin the site writes, without /content (dev: https://dev.dotgames.org)")
     ap.add_argument("--cloud", default=os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "dot-cloud"))
     ap.add_argument("--bsp", default=os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "dot-map-convert"), help="dot-map-convert (for dotbsp.storecheck)")
     ap.add_argument("--godot", default=os.environ.get("GODOT", "godot"))
     ap.add_argument("--prefix", default="store-")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
+    a.origin = a.origin.rstrip("/").removesuffix("/content")  # storecheck adds /content itself
     sys.path.insert(0, a.bsp)
     from dotbsp import storecheck
 
