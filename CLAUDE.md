@@ -19,6 +19,7 @@ Read the family [CLAUDE.md](../../CLAUDE.md) and game-playlot's [CLAUDE.md](../g
 | `maps/*.json` | the twenty-seven documents (`pgc_*`), committed (twelve built by `build_maps.py`, fifteen converted by `import_bsp.py`, which `--check` does not rewrite); linked into game-playlot as `maps/custom` by dot-bootstrap |
 | `tools/build_maps.py` | writes every document; `--check` fails when a committed file differs |
 | `tools/import_bsp.py`, `tools/bsp_read.py` | converts a community BSP to a document: brushes to boxes by dot-map-convert's `boxes.decompose(tilt=True)` (never a local copy; this file is only the adapter: document format, `GAME_MATERIAL`, configs), a brush's surface from dot-map's shared `tools/bsp/dotbsp/source_textures.tsv` (a new texture goes there, never here; `bsp.py unmapped <bsp>` lists what it misses), turned into this game's materials by `GAME_MATERIAL`; the config table holds each map's credit, region and any `overrides` the list cannot say |
+| `tools/ship_store.sh`, `tools/upload_store.py`, `tools/check_store.sh`, `tools/check_store_stamps.py`, `tools/store_worlds.py` | the converted worlds' library models and PBR sets as dot-cloud store slices (`licence.store_pack`); `publish_maps.sh` adds `--depends` from the stamp. [building](docs/building.md#store-slices) |
 | `.github/workflows/` | `check.yml` (the builder's `--check`), `release.yml` (the pack, from a `v*` tag) |
 
 ## Running and testing
