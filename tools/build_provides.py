@@ -11,10 +11,11 @@ import os
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TITLE = 'Playground maps'
-GAMES = ["gamemann/game-playground"]
+TITLE = 'Playlot maps'
+GAMES = ["gamemann/game-playground"]  # the game's published pack id, kept from before the rename
 DIR = 'maps'
-DOC_KIND = "playground_map"  # the document's own "kind" a listed one must have; None lists every .json
+DOC_KIND = None  # every .json in maps/ is a Playlot document: build_maps.py writes kind playlot_map, the converted ones
+# (dot-map-convert's adapter) still the kind from before the rename, and the shared tool takes one kind only
 MAP_KIND = lambda d: d["map_kind"]  # the entry's map_kind, or a callable taking the document
 
 

@@ -4,9 +4,9 @@
     python3 tools/build_maps.py          # write maps/*.json
     python3 tools/build_maps.py --check  # fail if a committed file differs (CI)
 
-A map is boxes (centre + full size, the PlaygroundGeometry.box convention), an optional
+A map is boxes (centre + full size, the PlaylotGeometry.box convention), an optional
 turn about the box's own centre, a spawn, and the areas the survey may find unreached.
-game-playground's maps/pg_data.gd builds it and defines the format.
+game-playlot's maps/pg_data.gd builds it and defines the format.
 
 Ramps are placed from where their TOP surface starts and ends, then dropped along their own
 normal by half their thickness, so the surface meets the ground at both ends exactly. A ramp
@@ -29,7 +29,7 @@ def r(v):
 
 def box(at, size, colour="floor", turn=None, material=None):
     """A box. With a material and no colour of its own (None or "floor"), it is drawn in the
-    material's look (game-playground's PlaygroundMaterials); a liquid material builds a volume,
+    material's look (game-playlot's PlaylotMaterials); a liquid material builds a volume,
     not a body."""
     b = {"at": [r(c) for c in at], "size": [r(c) for c in size]}
     if colour is None and material is None:
@@ -97,7 +97,7 @@ def wall_tops(size, top_y, why):
 
 def doc(id_, name, blurb, spawn, spawn_yaw, boxes, declared, tier=1, props=None, wires=None):
     d = {
-        "format": 1, "kind": "playground_map", "id": id_, "name": name, "blurb": blurb,
+        "format": 1, "kind": "playlot_map", "id": id_, "name": name, "blurb": blurb,
         "map_kind": "sandbox", "tier": tier, "author": AUTHOR,
         "spawn": [r(c) for c in spawn], "spawn_yaw": spawn_yaw,
         "boxes": boxes, "declared": declared,
@@ -310,7 +310,7 @@ def pit_steps(axis, edge, into, lo, hi, y_top, y_bed, material="rock", colour=No
 
 
 def trampoline(x, z, floor_y=0.0, size=3.0):
-    """A rubber pad 0.3 m thick (a step): game-playground jumps a player 1.8 times as high off it."""
+    """A rubber pad 0.3 m thick (a step): game-playlot jumps a player 1.8 times as high off it."""
     return mat("rubber", (x, floor_y + 0.15, z), (size, 0.3, size))
 
 
@@ -1585,7 +1585,7 @@ TOY_BOX = {
     "horn": (-0.3, 0.3, -0.3, 0.3, 1.5), "bell": (-0.7, 0.7, -0.3, 0.3, 2.3),
 }
 LAUNCHERS = ("trampoline", "bounce_pad")
-# Built with no collider (game-playlot's PlaygroundMaterials.is_volume), or not a floor to
+# Built with no collider (game-playlot's PlaylotMaterials.is_volume), or not a floor to
 # put a toy on (thin ice breaks).
 NOT_FLOOR = ("water", "lava", "slime", "foliage", "thin_ice")
 NO_BODY = ("water", "lava", "slime", "foliage")

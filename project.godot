@@ -10,6 +10,6 @@ config_version=5
 
 [application]
 
-config/name="game-playground-maps"
-config/description="Custom sandbox maps for game-playground, as JSON documents."
+config/name="playlot-maps"
+config/description="Custom sandbox maps for game-playlot, as JSON documents."
 config/features=PackedStringArray("4.7")

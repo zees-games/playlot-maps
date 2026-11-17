@@ -2,7 +2,7 @@
 
 Custom sandbox maps for game-playlot, as JSON documents written by `tools/build_maps.py`. The format is defined, validated and built by game-playlot's `maps/pg_data.gd`; this repository only holds the documents and the builder.
 
-Read the family [CLAUDE.md](../../CLAUDE.md) and game-playlot's [CLAUDE.md](../game-playground/CLAUDE.md) first, and its [maps.md](../game-playground/docs/maps.md) for the format, materials and the survey.
+Read the family [CLAUDE.md](../../CLAUDE.md) and game-playlot's [CLAUDE.md](../game-playlot/CLAUDE.md) first, and its [maps.md](../game-playlot/docs/maps.md) for the format, materials and the survey.
 
 ## Read before
 
@@ -25,7 +25,7 @@ Read the family [CLAUDE.md](../../CLAUDE.md) and game-playlot's [CLAUDE.md](../g
 ## Running and testing
 
 - Edit `tools/build_maps.py`, run `python3 tools/build_maps.py`, commit the builder and the JSON together. `python3 tools/build_maps.py --check` must pass.
-- Then, in game-playlot: `headless_playground` surveys every map (slots, reachability, traps), `tools/map_props.gd` loads every map and checks props stay put, and `tools/screenshot.sh <map>` renders one. A map change is not done until all three pass and the picture has been looked at. [building](docs/building.md#checking-a-map)
+- Then, in game-playlot: `headless_playlot` surveys every map (slots, reachability, traps), `tools/map_props.gd` loads every map and checks props stay put, and `tools/screenshot.sh <map>` renders one. A map change is not done until all three pass and the picture has been looked at. [building](docs/building.md#checking-a-map)
 
 ## Rules that bite
 
@@ -44,7 +44,7 @@ Read the family [CLAUDE.md](../../CLAUDE.md) and game-playlot's [CLAUDE.md](../g
 - `project.godot` exists only so dot-ci's release can import this repository and attach the `-pack.zip`; it carries the editor's own header and no comments, because the editor rewrites the file on its first save and a checkout would show it modified.
 
 **`provides.json` is what lists this pack in the Workshop, and `tools/build_provides.py` writes it** from the documents in the folder (an entry per map, `map_kind` and the game it is for are constants at the top). Edit the script, run it, commit both; `--check` (CI) fails on a stale file. A pack whose newest READY version has no `provides` block is not a Workshop item. It ships because the pack takes every file outside the excluded folders.
-**Publishing**: `tools/publish.sh VERSION [--site URL --token-file F --lock F]` wraps dot-cloud's `publish_pack.sh` for id `gamemann/game-playground-maps` (see dot-cloud `docs/cdn-publish.md`). Per-map packs (2026-11-13, nightly `hotspot-play-map`): `tools/publish_maps.sh [MAP_ID...] -- --member-of ASSET --site URL --token-file F` publishes each map as pack `gamemann/<map id>` (`maps/<id>.json`, the world pack it names under `maps/world/`, its licence entries, a one-entry `provides.json`), a member of this repository's collection asset (dev 80), pinned in `maps.lock.json`. The client shell mounts that one pack for a hotspot "Play map" link (`--solo-map <id>`) and Playlot starts on it (`Playground.solo_start_map`); the whole pack stays what "download this game's maps" mounts.
+**Publishing**: `tools/publish.sh VERSION [--site URL --token-file F --lock F]` wraps dot-cloud's `publish_pack.sh` for id `playlot-maps` (`content.lock.json` still pins the pre-rename id `gamemann/game-playground-maps`, dev 1.1.0, until the next publish rewrites it; see dot-cloud `docs/cdn-publish.md`). Per-map packs (2026-11-13, nightly `hotspot-play-map`): `tools/publish_maps.sh [MAP_ID...] -- --member-of ASSET --site URL --token-file F` publishes each map as pack `gamemann/<map id>` (`maps/<id>.json`, the world pack it names under `maps/world/`, its licence entries, a one-entry `provides.json`), a member of this repository's collection asset (dev 80), pinned in `maps.lock.json`. The client shell mounts that one pack for a hotspot "Play map" link (`--solo-map <id>`) and Playlot starts on it (`Playlot.solo_start_map`); the whole pack stays what "download this game's maps" mounts.
 
 ## Ambience level
 

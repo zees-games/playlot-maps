@@ -1,6 +1,6 @@
 #!/bin/bash
 # Publishes each map as its own pack (id = the map id, a member of this repository's collection asset): the pack a
-# hotspot "Play map" link (`--solo-map <id>`) mounts instead of the whole game-playground-maps. tools/publish.sh still publishes the whole pack.
+# hotspot "Play map" link (`--solo-map <id>`) mounts instead of the whole playlot-maps pack. tools/publish.sh still publishes the whole pack.
 #   tools/publish_maps.sh [MAP_ID...] -- --member-of ASSET [--site URL --token-file F --dry-run ...]
 # No MAP_ID = every maps/*.json. A pack holds maps/<id>.json, the world pack it names (maps/world/<pack>/, its meshes,
 # textures and credits, and the library models its props use from maps/world/.stores/), its licence.json entries and a
