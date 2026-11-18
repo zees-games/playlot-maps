@@ -4,15 +4,15 @@
  "map": "gm_mountainresort",
  "sha256": "e65ea7f4889c63d4e0e4a237768527d5e7efef2b13edf97b896b74ac52d89bda",
  "textures": {
-  "looked_up": 169,
-  "drawn": 168,
+  "looked_up": 210,
+  "drawn": 212,
   "by_tier": {
-   "addon": 56,
-   "default": 113
+   "addon": 66,
+   "default": 144
   },
   "free_by_tier": {
-   "addon": 150,
-   "default": 18
+   "addon": 191,
+   "default": 21
   },
   "nearest_photo": [
    "brick/brickwall034a",
@@ -21,7 +21,11 @@
    "ce/brick/brick01",
    "ce/gem/egem_home",
    "ce/grass/grass_01",
+   "ce/grass/grass_01_sky",
    "ce/grass/grass_02",
+   "ce/grass/grass_02_sky",
+   "ce/grass/grass_03",
+   "ce/grass/mud",
    "ce/marble/marble_01",
    "ce/marble/poolmarble_01",
    "ce/poster/02post",
@@ -32,13 +36,23 @@
    "ce/poster/08post",
    "ce/pvc/pvc_01",
    "ce/signs/highvoltage",
+   "ce/tables/author",
+   "ce/tables/credits",
+   "ce/tables/facts",
+   "ce/tables/history",
+   "ce/tables/time",
    "ce/wood/sodoma01",
    "ce/wood/sodoma02",
    "ce/wood/sodoma03",
+   "concrete/concretefloor_bunker02b",
    "concrete/concretewall013d",
    "concrete/concretewall039a",
+   "concrete/concretewall075b",
    "concrete/curbredafire",
+   "cs_assault/assault_skybox_building03",
    "cs_havana/door03",
+   "dev/dev_measuregeneric01",
+   "dev/dev_measurewall01d",
    "fda/tile/tile_09",
    "fda/tile/tile_25",
    "fda/tile/tile_27",
@@ -53,13 +67,25 @@
    "metal/metalwall_silo01b",
    "metal/prodventa",
    "milkman/tile5",
+   "mountains/mtn_left",
+   "mountains/mtn_right",
+   "nature/blendconcretedirt001a",
    "nature/blendrockdirt006b_lowfrict",
+   "nature/blendrockslime01a",
+   "nature/blendrockslime01a_wvt_patch",
+   "nature/clifftrees_cardboard01a",
+   "nature/clifftrees_cardboard02a",
    "nature/infskybox02",
+   "nature/rnl_background_aa_001",
+   "nature/rockwall_cave01a",
+   "nature/rockwall_cave03a",
+   "nature/rockwall_citadel02a",
    "plaster/milwall001",
    "plaster/plasterwall051c",
    "plaster/plasterwall051d",
    "plaster_1_white_hs",
    "props/metalpanel003a",
+   "props/metalpanel014a",
    "realworldtextures/floor/floor_1_13",
    "realworldtextures/floor/mixtile/solid/black",
    "realworldtextures/floor/mixtile/solid/blue4",
@@ -67,7 +93,9 @@
    "realworldtextures/new/boycarpetblue",
    "realworldtextures/new/carpetl5",
    "realworldtextures/new/wall_b03",
+   "realworldtextures/newer/0/bricks_0_23",
    "realworldtextures/newer/0/concrete_0_10",
+   "realworldtextures/newer/0/roof_0_04",
    "realworldtextures/newer/1/brick_1_08",
    "realworldtextures/newer/1/carpet_1_03",
    "realworldtextures/newer/1/concrete_1_03",
@@ -99,9 +127,11 @@
    "realworldtextures2/marble/marble_01",
    "realworldtextures2/tile/tile_02",
    "realworldtextures2/tile/tile_03",
+   "realworldtextures2/wall/brick_wall_10",
    "realworldtextures2/wood/blinds/blinds_06",
    "realworldtextures2/wood/blinds/blinds_06_black",
    "realworldtextures2/wood/wood_09",
+   "realworldtextures2/wood/wood_106",
    "realworldtextures2/wood/wood_34",
    "realworldtextures2/wood/wood_35",
    "realworldtextures2/wood/wood_51",
@@ -110,23 +140,26 @@
    "stone/stonewall013a",
    "tl/carpet02",
    "tl/tile02",
+   "wood/c_wood3",
    "wood/ep2_woodfloor01",
+   "wood/infceilinga",
+   "wood/milwall015",
    "wood/wooddoor007a"
   ]
  },
  "models": {
-  "looked_up": 385,
+  "looked_up": 392,
   "by_tier": {
-   "category": 48,
-   "default": 330,
+   "category": 52,
+   "default": 333,
    "skybox": 7
   }
  },
  "sounds": {
   "looked_up": 66,
   "by_tier": {
-   "default": 54,
-   "fallback": 12
+   "default": 55,
+   "fallback": 11
   }
  },
  "classes": {
@@ -160,6 +193,23 @@
   "total": 660,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1,
+   "input_unimplemented": 7,
+   "volume_key_unread": 4
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "volume_key_unread": "unsupported"
+  },
+  "classes": {
+   "approximated": 12,
+   "ignored": 4,
+   "implemented": 38
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -170,7 +220,6 @@
    "ambient/levels/forest/chicka3.wav",
    "ambient/levels/forest/chirp1.wav",
    "ambient/levels/forest/flit1.wav",
-   "ambient/levels/forest/squeek2.wav",
    "ambient/tones/garage.wav",
    "ambient/tones/pipes.wav",
    "ambient/tones/pipes2.wav",
@@ -197,7 +246,8 @@
    "func_water_analog.Open"
   ],
   "surfaces_opaque": [
-   "realworldtextures2/wood/blinds/blinds_06"
+   "realworldtextures2/wood/blinds/blinds_06",
+   "realworldtextures2/wood/wood_106"
   ],
   "gameplay_lost": [
    "class_unsupported:func_dustcloud (approximated)",
@@ -218,29 +268,12 @@
   "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
-  "sounds_unmapped": 12,
+  "sounds_unmapped": 11,
   "classes_unmapped": 0,
   "keys_unmapped": 5,
   "links_unresolved": 0,
   "inputs_unimplemented": 7,
-  "surfaces_opaque": 1,
+  "surfaces_opaque": 2,
   "gameplay_lost": 12
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1,
-   "input_unimplemented": 7,
-   "volume_key_unread": 4
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "volume_key_unread": "unsupported"
-  },
-  "classes": {
-   "approximated": 12,
-   "ignored": 4,
-   "implemented": 38
-  }
  }
 }

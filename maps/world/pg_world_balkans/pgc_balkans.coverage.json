@@ -4,35 +4,55 @@
  "map": "gm_balkans",
  "sha256": "1285886e3ddcd2eebb5f18e6dcabbe81e5057043ab75ac73d808da217cfc4762",
  "textures": {
-  "looked_up": 40,
-  "drawn": 40,
+  "looked_up": 74,
+  "drawn": 72,
   "by_tier": {
-   "addon": 18,
-   "default": 22
+   "addon": 25,
+   "default": 49
   },
   "free_by_tier": {
-   "addon": 38,
-   "default": 2
+   "addon": 62,
+   "default": 10
   },
   "nearest_photo": [
    "aquatica/aqmetal2",
    "concrete/baggage_concretefloora",
+   "concrete/blend_sidewalk_01",
    "concrete/ceiling03",
+   "concrete/concrete_floor_02_blue",
+   "concrete/concrete_floor_06",
    "concrete/concrete_floor_10",
    "concrete/concrete_int_01",
+   "concrete/concretewall075b",
+   "concrete/concretewall075c",
+   "cs_havana/iceilb01",
    "cs_italy/blkmetal",
    "de_cbble/grassdirt_blend",
    "de_nuke/nuke_floor_trim_01",
    "lg/blend/battlefield/blend_herbe01_4_roche02",
+   "lg/blend/battlefield/blend_roche02_roche01",
+   "lg/blend/battlefield/blend_roche02_roche03",
+   "lg/blend/battlefield/blend_roche03_roche01",
    "lg/blend/battlefield/blend_terre04_4_roche02",
+   "lg/blend/battlefield/blend_terre05_4_roche03",
+   "lg/metal/conteneur_bleu1",
+   "lg/metal/conteneur_bleu2",
    "lg/metal/conteneur_gris1",
+   "lg/metal/conteneur_jaune1",
+   "lg/metal/conteneur_jaune2",
    "lg/metal/conteneur_rouge1",
    "lg/metal/conteneur_rouge2",
+   "lg/metal/conteneur_vert1",
+   "lg/metal/conteneur_vert2",
    "lg/warland/laser_trait",
    "lg/warland/overview_militaire512",
+   "metal/csrev_wide_metaldoor_01",
    "metal/metal_emergencystripe01a",
    "metal/metalhull009b",
-   "realworldtextures2/metal/wall/metal_49"
+   "metal/metalwall006b",
+   "nature/gravelfloor005a",
+   "realworldtextures2/metal/wall/metal_49",
+   "zpcustommaterials/walls/zp_plasterwall_green"
   ]
  },
  "models": {
@@ -82,6 +102,27 @@
  "links": {
   "total": 848,
   "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 15,
+   "filter_dangling": 5,
+   "input_unimplemented": 10,
+   "player_input": 1,
+   "volume_parented": 19
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "filter_dangling": "source",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 25,
+   "ignored": 8,
+   "implemented": 40
+  }
  },
  "lists": {
   "textures_unmapped": [],
@@ -174,26 +215,5 @@
   "inputs_unimplemented": 10,
   "surfaces_opaque": 0,
   "gameplay_lost": 45
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 15,
-   "filter_dangling": 5,
-   "input_unimplemented": 10,
-   "player_input": 1,
-   "volume_parented": 19
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "filter_dangling": "source",
-   "input_unimplemented": "unsupported",
-   "player_input": "unsupported",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 25,
-   "ignored": 8,
-   "implemented": 40
-  }
  }
 }

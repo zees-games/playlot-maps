@@ -28,3 +28,6 @@ jobs:
               env:
                   DOT_MAP_CONVERT_PATH: dot-map-convert-src
             - run: python3 -I tools/check_store_stamps.py
+            # Every converted map is the author's whole world and its spawn stands on it (a cropped or
+            # floorless document is what a player saw as a few boxes over the sea on pgc_fork).
+            - run: python3 -I tools/check_worlds.py

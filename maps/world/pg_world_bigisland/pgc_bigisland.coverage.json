@@ -4,23 +4,37 @@
  "map": "gm_bigisland",
  "sha256": "06015717fb26edbf90b3660ec37ce8d8d28823c04f8b3d2f27ffe1b9585ed84c",
  "textures": {
-  "looked_up": 9,
-  "drawn": 11,
+  "looked_up": 31,
+  "drawn": 38,
   "by_tier": {
-   "addon": 1,
-   "default": 8
+   "addon": 3,
+   "default": 28
   },
   "free_by_tier": {
-   "addon": 10,
-   "default": 1
+   "addon": 30,
+   "default": 8
   },
   "nearest_photo": [
+   "concrete/concrete_rough001a",
+   "concrete/timelapse",
+   "island/blend_cliff2grass",
    "island/blend_cliffcliff2",
    "island/blend_cliffgrass",
+   "island/blend_cliffgrass_nodetail",
    "island/blend_cliffsand",
+   "island/blend_grassdirt",
+   "island/blend_grassgravel",
    "island/blend_grassleaves",
    "island/blend_sandgrass",
-   "island/blend_sandwatersand"
+   "island/blend_sandwatersand",
+   "island/cave_cavewallgrass",
+   "island/cave_cavewallsand",
+   "island/credits_modern",
+   "island/credits_modern_2",
+   "island/give_her_the_dick",
+   "island/islandcavewall",
+   "island/islandgrass",
+   "nature/blendrockgrass004a"
   ]
  },
  "models": {
@@ -50,6 +64,16 @@
   "total": 20,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "approximated": 1,
+   "ignored": 1,
+   "implemented": 23,
+   "unknown": 1
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -75,15 +99,5 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "gameplay_lost": 0
- },
- "gameplay": {
-  "findings": {},
-  "severity": {},
-  "classes": {
-   "approximated": 1,
-   "ignored": 1,
-   "implemented": 23,
-   "unknown": 1
-  }
  }
 }

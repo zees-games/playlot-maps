@@ -7,13 +7,23 @@
  "works": [
   {
    "kind": "texture",
+   "name": "pbr_grass_concrete_pavement",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/grass_concrete_pavement",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 122
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Gravel023",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
    "url": "https://ambientcg.com/view?id=Gravel023",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 24
+   "uses": 822
   },
   {
    "kind": "texture",
@@ -23,7 +33,7 @@
    "url": "https://ambientcg.com/view?id=Concrete023",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 17
+   "uses": 68
   },
   {
    "kind": "texture",
@@ -33,7 +43,7 @@
    "url": "https://ambientcg.com/view?id=Concrete042B",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 16
+   "uses": 64
   },
   {
    "kind": "texture",
@@ -43,7 +53,7 @@
    "url": "https://ambientcg.com/view?id=PaintedMetal010",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 27
+   "uses": 169
   },
   {
    "kind": "texture",
@@ -53,7 +63,7 @@
    "url": "https://ambientcg.com/view?id=Metal041B",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 8
+   "uses": 31
   },
   {
    "kind": "texture",
@@ -63,7 +73,7 @@
    "url": "https://ambientcg.com/view?id=Metal047B",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 22
+   "uses": 86
   },
   {
    "kind": "texture",
@@ -73,7 +83,7 @@
    "url": "https://ambientcg.com/view?id=Metal063",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 15
+   "uses": 124
   },
   {
    "kind": "texture",
@@ -83,7 +93,17 @@
    "url": "https://ambientcg.com/view?id=MetalPlates015B",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 15
+   "uses": 62
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Travertine009",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Travertine009",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 148
   },
   {
    "kind": "texture",
@@ -93,7 +113,7 @@
    "url": "https://ambientcg.com/view?id=Metal052A",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 25
+   "uses": 55
   },
   {
    "kind": "texture",
@@ -103,7 +123,7 @@
    "url": "https://ambientcg.com/view?id=MetalWalkway001",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 7
+   "uses": 32
   },
   {
    "kind": "texture",
@@ -113,7 +133,7 @@
    "url": "https://ambientcg.com/view?id=DiamondPlate008D",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 2
+   "uses": 7
   },
   {
    "kind": "texture",
@@ -153,7 +173,7 @@
    "url": "https://ambientcg.com/view?id=Metal020",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 18
+   "uses": 65
   },
   {
    "kind": "texture",
@@ -163,7 +183,7 @@
    "url": "https://ambientcg.com/view?id=Concrete041B",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 3
+   "uses": 12
   },
   {
    "kind": "texture",
@@ -173,7 +193,7 @@
    "url": "https://ambientcg.com/view?id=PaintedMetal009",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 4
+   "uses": 15
   },
   {
    "kind": "texture",
@@ -183,7 +203,7 @@
    "url": "https://ambientcg.com/view?id=Metal019",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 5
+   "uses": 23
   },
   {
    "kind": "texture",
@@ -193,7 +213,7 @@
    "url": "https://ambientcg.com/view?id=MetalWalkway002",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 8
+   "uses": 37
   },
   {
    "kind": "texture",
@@ -203,7 +223,7 @@
    "url": "https://ambientcg.com/view?id=Planks024A",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 1
+   "uses": 4
   },
   {
    "kind": "texture",
@@ -213,7 +233,7 @@
    "url": "https://ambientcg.com/view?id=DiamondPlate007C",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 1
+   "uses": 5
   },
   {
    "kind": "texture",
@@ -223,7 +243,7 @@
    "url": "https://ambientcg.com/view?id=Concrete009",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 3
+   "uses": 25
   },
   {
    "kind": "texture",
@@ -233,7 +253,7 @@
    "url": "https://ambientcg.com/view?id=Facade020A",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 2
+   "uses": 13
   },
   {
    "kind": "texture",
@@ -243,7 +263,7 @@
    "url": "https://ambientcg.com/view?id=Metal053B",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 4
+   "uses": 20
   },
   {
    "kind": "texture",
@@ -253,17 +273,97 @@
    "url": "https://ambientcg.com/view?id=Facade003",
    "source": "ambientCG",
    "attribution": false,
+   "uses": 26
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_gravel_concrete_04",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/gravel_concrete_04",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 110
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete036",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete036",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 68
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_concrete_wall_001",
+   "author": "Dimitrios Savva, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/concrete_wall_001",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 27
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_MetalWalkway012",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=MetalWalkway012",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 29
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Snow012",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Snow012",
+   "source": "ambientCG",
+   "attribution": false,
    "uses": 4
   },
   {
    "kind": "texture",
-   "name": "pbr_grass_concrete_pavement",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_coral_fort_wall_01",
+   "author": "Dimitrios Savva, Rico Cilliers",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/grass_concrete_pavement",
+   "url": "https://polyhaven.com/a/coral_fort_wall_01",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 6
+   "uses": 14
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_clay_plaster",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/clay_plaster",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal010",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal010",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_concrete",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/concrete",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 4
   },
   {
    "kind": "texture",
@@ -273,7 +373,7 @@
    "url": "https://polyhaven.com/a/painted_metal_shutter",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 10
+   "uses": 42
   },
   {
    "kind": "texture",
@@ -283,7 +383,7 @@
    "url": "https://ambientcg.com/view?id=Tiles011",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 2
+   "uses": 8
   },
   {
    "kind": "texture",
@@ -293,7 +393,7 @@
    "url": "https://polyhaven.com/a/rusted_shutter",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 2
+   "uses": 8
   },
   {
    "kind": "texture",
@@ -303,27 +403,7 @@
    "url": "https://polyhaven.com/a/worn_corrugated_iron",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 12
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Metal061A",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal061A",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 2
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_SheetMetal001",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=SheetMetal001",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 2
+   "uses": 52
   },
   {
    "kind": "texture",
@@ -333,7 +413,57 @@
    "url": "https://polyhaven.com/a/corrugated_iron",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 4
+   "uses": 16
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal061A",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal061A",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 8
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_SheetMetal001",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=SheetMetal001",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 8
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal028",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal028",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_corrugated_iron_02",
+   "author": "Jenelle van Heerden, Sergej Majboroda",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/corrugated_iron_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_rusty_metal_02",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rusty_metal_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
   },
   {
    "kind": "model",
@@ -353,7 +483,7 @@
    "url": "https://kenney.nl/assets/furniture-kit",
    "source": "Kenney Furniture Kit",
    "attribution": false,
-   "uses": 120
+   "uses": 119
   },
   {
    "kind": "model",
@@ -377,11 +507,21 @@
   },
   {
    "kind": "model",
-   "name": "lib/dm_cablespool",
+   "name": "lib/dm_boxstack",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/industrial.py",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py",
    "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 27
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_cablespool",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 19
   },
@@ -423,7 +563,7 @@
    "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
    "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 25
+   "uses": 17
   },
   {
    "kind": "model",
@@ -453,17 +593,37 @@
    "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py",
    "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 207
+   "uses": 157
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_palletrack",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/detail_fixtures.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_pipecluster",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 50
   },
   {
    "kind": "model",
    "name": "lib/dm_roofdish",
-   "author": "Gamespice (modelled for map)",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py",
-   "source": "Gamespice map Blender model",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py",
+   "source": "dot-map Blender model",
    "attribution": false,
-   "uses": 8
+   "uses": 4
   },
   {
    "kind": "model",
@@ -477,6 +637,26 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_truss",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 60
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_watertower",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "model",
    "name": "lib/dm_wood_crate_cube",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
@@ -487,16 +667,6 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_food-kit_pizza-box",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
-   "attribution": false,
-   "uses": 5
-  },
-  {
-   "kind": "model",
    "name": "lib/kenney_mini-arcade_vending-machine",
    "author": "Kenney",
    "licence": "CC0-1.0",
@@ -504,26 +674,6 @@
    "source": "Kenney Mini Arcade",
    "attribution": false,
    "uses": 4
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_pirate-kit_crate-bottles",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/pirate-kit",
-   "source": "Kenney Pirate Kit",
-   "attribution": false,
-   "uses": 6
-  },
-  {
-   "kind": "model",
-   "name": "lib/own_box_124x82x28_e8e8e0",
-   "author": "Gamespice (generated for map)",
-   "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map",
-   "source": "TMC generated model",
-   "attribution": false,
-   "uses": 16
   },
   {
    "kind": "model",
@@ -827,10 +977,10 @@
   },
   {
    "kind": "model",
-   "name": "lib/sf_post_apocalyptic_fire_extinguisher_b163e8",
-   "author": "Sousinho",
+   "name": "lib/sf_rusted_tank_storage_57be2e",
+   "author": "Mkc",
    "licence": "CC-BY-4.0",
-   "url": "https://sketchfab.com/3d-models/none-b163e81ebaa74397b6ccc4ec7e50722b",
+   "url": "https://sketchfab.com/3d-models/none-57be2eaf4d6b4d2980bcee4ccb35f780",
    "source": "Sketchfab",
    "attribution": true,
    "uses": 1
