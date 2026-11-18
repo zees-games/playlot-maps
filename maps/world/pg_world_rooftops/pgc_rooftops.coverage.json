@@ -352,10 +352,6 @@
    "volume_key_unread:func_water_analog.movedistance=107",
    "volume_key_unread:func_water_analog.movedistance=140",
    "volume_key_unread:func_water_analog.movedistance=1712",
-   "volume_key_unread:trigger_hurt.damagecap=0",
-   "volume_key_unread:trigger_hurt.damagecap=1000",
-   "volume_key_unread:trigger_hurt.damagecap=2000",
-   "volume_key_unread:trigger_hurt.damagecap=250",
    "volume_parented:trigger_hurt#1359 -> superaxe",
    "volume_parented:trigger_hurt#2223 -> water_flood",
    "volume_parented:trigger_hurt#2516 -> superaxe",
@@ -377,7 +373,7 @@
   "links_unresolved": 1,
   "inputs_unimplemented": 30,
   "surfaces_opaque": 0,
-  "gameplay_lost": 74
+  "gameplay_lost": 70
  },
  "gameplay": {
   "findings": {
@@ -386,7 +382,7 @@
    "filter_dangling": 3,
    "input_unimplemented": 30,
    "player_input": 8,
-   "volume_key_unread": 7,
+   "volume_key_unread": 3,
    "volume_parented": 9
   },
   "severity": {

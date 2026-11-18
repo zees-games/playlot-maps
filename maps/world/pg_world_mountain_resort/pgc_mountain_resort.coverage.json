@@ -211,8 +211,7 @@
    "volume_key_unread:func_water_analog.movedistance=3",
    "volume_key_unread:func_water_analog.movedistance=4",
    "volume_key_unread:func_water_analog.movedistance=47",
-   "volume_key_unread:func_water_analog.movedistance=8",
-   "volume_key_unread:trigger_hurt.damagecap=100"
+   "volume_key_unread:func_water_analog.movedistance=8"
   ]
  },
  "counts": {
@@ -225,13 +224,13 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 7,
   "surfaces_opaque": 1,
-  "gameplay_lost": 13
+  "gameplay_lost": 12
  },
  "gameplay": {
   "findings": {
    "class_unsupported": 1,
    "input_unimplemented": 7,
-   "volume_key_unread": 5
+   "volume_key_unread": 4
   },
   "severity": {
    "class_unsupported": "unsupported",
