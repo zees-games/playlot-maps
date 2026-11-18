@@ -224,7 +224,8 @@
   "surfaces_opaque": [
    "storefront_template/storefront_template001d",
    "wood/woodwall019a"
-  ]
+  ],
+  "gameplay_lost": []
  },
  "counts": {
   "textures_unmapped": 0,
@@ -235,6 +236,16 @@
   "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
-  "surfaces_opaque": 2
+  "surfaces_opaque": 2,
+  "gameplay_lost": 0
+ },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "approximated": 2,
+   "ignored": 4,
+   "implemented": 34
+  }
  }
 }

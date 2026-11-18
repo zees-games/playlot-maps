@@ -87,6 +87,9 @@
   "inputs_unimplemented": [],
   "surfaces_opaque": [
    "parking_lot/warehousedoor"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:path_track (approximated)"
   ]
  },
  "counts": {
@@ -98,6 +101,20 @@
   "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
-  "surfaces_opaque": 1
+  "surfaces_opaque": 1,
+  "gameplay_lost": 1
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "ignored": 2,
+   "implemented": 23
+  }
  }
 }
