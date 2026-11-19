@@ -62,6 +62,7 @@ def main():
 
     cli = os.path.join(a.cloud, "addons/dot_cloud/publish/dot_cloud_cli.gd")
     sent = there = failed = 0
+    imported = False
     for sid, version, deps in order:
         if storecheck.fetch(sid, version, origin=a.origin) is not None:
             there += 1
@@ -75,6 +76,19 @@ def main():
         print("upload_store: %s@%s (%d dependencies) from %s" % (sid, version, len(deps), src), flush=True)
         if a.dry_run:
             continue
+        if not imported:
+            # The CLI refuses a slice whose .import markers name outputs the project has not imported. storepack imports
+            # where it runs, but a copy that skipped .godot/ (gpu.sh pull-back, a fresh checkout) has none, and each refused
+            # upload leaves a failed row on the site. Import first (a no-op when current), once per run.
+            print("upload_store: importing %s" % a.project, flush=True)
+            r = subprocess.run([a.godot, "--headless", "--path", os.path.abspath(a.project), "--import"],
+                               timeout=7200, capture_output=True, text=True)
+            if r.returncode != 0 or not os.path.isdir(os.path.join(a.project, ".godot", "imported")):
+                tail = [l for l in (r.stdout + r.stderr).splitlines() if l.strip()][-6:]
+                print("upload_store: import of %s failed rc=%d, nothing uploaded:\n  %s" % (a.project, r.returncode, "\n  ".join(tail)),
+                      file=sys.stderr)
+                return 1
+            imported = True
         with tempfile.TemporaryDirectory() as out:
             cmd = [a.godot, "--headless", "--path", a.cloud, "--script", cli, "--", "publish", "--upload", "--resume",
                    "--token-file", os.path.abspath(a.token_file), "--site", a.site, "--source", src, "--out", out,

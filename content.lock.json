@@ -10,6 +10,14 @@
 			"manifest_sha256": "8e55acc2ccfef5bac8fe0392441ddefb334fee388a3bfcddca643eb78c7e4764",
 			"optional": false,
 			"version": "1.1.0"
+		},
+		{
+			"id": "gamemann/playlot-maps",
+			"into": "",
+			"kind": "pack",
+			"manifest_sha256": "e08a51e1118aae07514ce1c9d781c5fef45366c0c9972e056035a01a79718658",
+			"optional": false,
+			"version": "1.0.4"
 		}
 	]
 }

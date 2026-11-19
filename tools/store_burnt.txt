@@ -7,3 +7,18 @@ gamemann/store-shared-6e24b59f@h33f859ae
 gamemann/store-shared-7d20105a@h1ca05c70
 gamemann/store-shared-84f06f92@hc680b4e9
 gamemann/store-shared-89232878@hcfb5ea29
+# Refused as already failed (HTTP 409) on dev and/or prod: uploads from a pull-back copy without .godot/imported, 2026-11-19
+gamemann/store-shared-116b1c2a@h47049c73
+gamemann/store-shared-1211e122@hbf6510e9
+gamemann/store-shared-12766fc3@h0a9d3404
+gamemann/store-shared-2119c2cf@h7ba0758a
+gamemann/store-shared-2769456a@h27fe23b4
+gamemann/store-shared-2c2288e7@hf50b15cb
+gamemann/store-shared-2ca99c76@h2a242650
+gamemann/store-shared-6041f38f@hcfd69ba8
+gamemann/store-shared-62a1a70b@h0b3535c7
+gamemann/store-shared-6902c317@h82858307
+gamemann/store-shared-84f06f92@h44ddad53
+gamemann/store-shared-c9a48962@ha926e015
+gamemann/store-shared-d3a187e2@ha5b92872
+gamemann/store-pg_world_asheville@hc7a9600b

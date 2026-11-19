@@ -7,217 +7,225 @@
 			"id": "gamemann/pgc_asheville",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "f689b9d2a010eade9489f9a62a6d052513733269970f2d21a2a0b81547db9f29",
+			"manifest_sha256": "ce7dea0e8ddefa3d745f69cc475f037c6595c0f12c643791e7e26e175601bddb",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_balkans",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "871081a18e8e53b26b35463c417ba631e4ebc2805c32cc6645a8878119cb8515",
+			"manifest_sha256": "abfb5ac8d4326571f5e9baca6458d223c097e1146aca6697db6cf9175f8a6a45",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_bigisland",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "13f669a09732a8360fc92b9103757e8c760ae0df52d5d4a23f004ac580959942",
+			"manifest_sha256": "97e119e29edac9a63c9a7f707ec4ad8c216e33c1ea68e8d8df6f3296b9a62f7d",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_boreas",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "ea2bbaef3f4934396d445b510453f23c802df3eef49dbc6d9964e71d30698108",
+			"manifest_sha256": "0e64f4dab8525a51a38e99ca93fac5b8d2b0590618690b5fa45a8cdd898144a8",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.3"
 		},
 		{
 			"id": "gamemann/pgc_bowl",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "c926a6505c469bedb6e527b0b0d85cc712079258469e15a8c5006da46a1acec1",
+			"manifest_sha256": "afa3ce2091b6ae83265433564d3a3922e7ab537b905deef442bc2cfb680edc58",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_canyon",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "1054732a1b6d88395c847ae54eae6a782b4ade3ebaae305c35b5eac66aba3f33",
+			"manifest_sha256": "42cf21566e6d418997ed97ee80fbe8fba3428d7ca58bdd853c1677f86cf0a336",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_construct_small",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "d7edfaa24585a240b31aa6e8230e6749eba751323b9df80375ba278f6282119a",
+			"manifest_sha256": "3712d5423562bd987a64003c5d456221cb260245bf5548e48939b811834b3f6e",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_deadcity",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "87764fb775f8db6497c03c0c18cda7ee97ed7b36dbdab23392995cb31ccca044",
+			"manifest_sha256": "dc9df53da6a053961273e03a1878983483f6eff85f4a42672dd281ff6f398584",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_fork",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "e5df68c15ae4ad0cee2abcd81132829d5bc4752b0657c769ea843a05d21d277e",
+			"manifest_sha256": "bc95f0992604faee1f9498d8e155edd609fcc00649b5df31b5116198cf06c3ac",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_harbour",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "876d36fe841628c184c3225eff80c61ce993baa975193e4246d370e9289d3a00",
+			"manifest_sha256": "f1118f84dc8c06a3432d13f2e92cb479a6e001c0de560fd86f941c9303e01763",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_islands",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "5e56779224e752e4e7b9ca3f9534fa673d910c981c67089d5fcb6102db3508ec",
+			"manifest_sha256": "7125dd1a7b3d4e526fa46368024e414e602ec039f605d21db5d4e2e443c156e5",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_mallparking",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "c0dbc6696a03b094ddc9ebf033afeaae8394a547227f5292a6defa4dd3ee7f3f",
+			"manifest_sha256": "8427fdc5832a6fff0b16e68ec266a91de70bb83aa7a8d9d893a7f116bf1e1bec",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_mountain_resort",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "46ac596c0b69db3d5383443e0b2ca07585d61a40e5010042be8dce48592bbfd2",
+			"manifest_sha256": "80649f89d323d6a67ecf97fd973e99552ea3331703fe396b58dc02b898e4d0ea",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_nature",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "f649c2cac17df0254f584ca9dc0d698fb0bcf7b4ba7270d7506c4292f4c904c6",
+			"manifest_sha256": "1b09ea682f890c1821c058e4cfabbcf0c109f535404dcc52ece3e304f5038ec5",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_obstacle",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "1aa27c0306b291e752edd0aae023f3e82f11c545fe9b14f028e463dff65d1229",
+			"manifest_sha256": "d46153223d8f2d98ff569536d43a756309871a115c98bc0a0af785469cbad33d",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_plots",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "0dd8113a0d9fd8edb296d2034b93a6e9fc27109d53e4b3061d8eefea302174bb",
+			"manifest_sha256": "83c8dd916bfa27e718d9ae308a308037edf85ebf082d23858020418e45f71fe6",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_quarry",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "7fd0f53af690bc045b473b2b52ad4992b199b9f070696868967e480aa7d7b829",
+			"manifest_sha256": "f353088be10711f24ad225a234ce9772a0ec5290395a9fb20a1a6b0c42ee3d28",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_rooftops",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "dd94f1e719d66969f983b48b95c5461375c144b9dbb2c91841d5eac874fd1fc3",
+			"manifest_sha256": "8140364ac00c057e96fb7061b4dbc236a1522736f8321f2b0c7402c82a72221c",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_shambles",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "1e270d7459c2bcfd3c1dd44f0c8b9bebc086e08d8896bd2fce2389ba72d6cc79",
+			"manifest_sha256": "749ae41de07386a01fbe1d3392e2ea417aec5a4ec11d6ab4e76dd58f72dfe785",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_site",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "9783bf28b9f29ef128b78cc5b952c999e1932dbbe894adea4b450dbe83fb9eb3",
+			"manifest_sha256": "ca80d2bb7b3d67477794bbc519747d31550a2a923dc4335ed08255cd712adbe1",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_slopes",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "76dd2d510fc25141d1f5758a44e6bbe4b3cdb084f12e983adb2d20abb43aee10",
+			"manifest_sha256": "d88bbf6e353645996a3f8ddde59351a488f2b3d213827feebeca388cb353d8c9",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_smallbase",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "f09671c1c5876804bdd0a7563dbbcc3b2982ea6bf47959dc3e30dba5e77f312d",
+			"manifest_sha256": "db42c9a353360d480040e2de829f81ad07583414f1fdddb03c86b701630e2f0b",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_southside",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "2326c4d690cd7d522cde64e292b7e8de138d52f006b5a5a6e2d51b9e2aa74825",
+			"manifest_sha256": "f10c45da7774952eacde6df489ee99e910da7bc2fc326d89c4f499cc46efdd4d",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_town",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "814c17653518cc350d67569025d7e7469058712692569601098152e8b4451654",
+			"manifest_sha256": "c77672cc34a64b796e9e37f7fb9dd670a2dc9f35f1c49d72a271d9eeb192d868",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
 		},
 		{
 			"id": "gamemann/pgc_valley",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "1d78040a99572c40fa96cc544c5de6023173367b8296913d4499d9b186654ea1",
+			"manifest_sha256": "101ab7e3cbd2f1619d943a8a5c5649cf861e605d04ccae1f7ce5d1045a7931f4",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_vyten",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "c94a8b7e734f043a5aa1f7e2e30ab77b950678831a28cea0c1fd574135a1cdb1",
+			"manifest_sha256": "3f9b4cc4f1d44047b802cb5d47caabfdce0be8b714553c15d95ab469393fc1c2",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.2"
 		},
 		{
 			"id": "gamemann/pgc_warehouse",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "1e097f04a110dbab0b8b424965c4ba835fb84f4406c95ff90d24b77c0296c0d5",
+			"manifest_sha256": "ac6bbb316a1470e9134b87401e8bfb56debdbc77b01e4cab39947ee0b8ed3986",
 			"optional": false,
-			"version": "1.0.0"
+			"version": "1.0.1"
+		},
+		{
+			"id": "gamemann/pgc_york",
+			"into": "",
+			"kind": "pack",
+			"manifest_sha256": "4802db61a956b7abfb1e64fc5f4abeb5caff3ac88fc7095503ae30d215874842",
+			"optional": false,
+			"version": "1.0.1"
 		}
 	]
 }
