@@ -1,6 +1,6 @@
 # Tag it (v*) and the maps are attached to the GitHub Release as a pack zip named after the repository,
 # which website-city's release sync publishes and signs (releases before the rename went out as
-# gamemann/game-playground-maps, an id kept for them). A server owner names this pack for game-playlot in
+# gamemann/game-playground-maps, a legacy id kept for them). A server owner names this pack for game-playlot in
 # cfg/content.yml; the server mounts it and sends it to every player, because a Playlot client builds the map itself.
 #
 # It signs nothing and publishes nothing itself; see gamespice-platform/ci.

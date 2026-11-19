@@ -1,6 +1,6 @@
 #!/bin/bash
 # Publishes the maps pack (licence.json and provides.json at the root travel with it) as playlot-maps: the id the client
-# shell's solo.json and the server's content overrides mount for game-playlot. game-playground-maps is the pre-rename id
+# shell's solo.json and the server's content overrides mount for game-playlot. legacy id: game-playground-maps was the pre-rename id
 # (dev 1.1.0 only); nothing live mounts it, so a publish under it never reaches a player.
 #   tools/publish.sh VERSION [extra publish_pack.sh flags, e.g. --site URL --token-file F --lock F --dry-run]
 set -euo pipefail
