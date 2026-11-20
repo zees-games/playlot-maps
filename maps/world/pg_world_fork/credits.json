@@ -257,16 +257,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Road008A",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Road008A",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 18
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Tiles086",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -333,7 +323,7 @@
    "url": "https://polyhaven.com/a/bicolour_gravel",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 292
+   "uses": 268
   },
   {
    "kind": "texture",
@@ -353,7 +343,7 @@
    "url": "https://polyhaven.com/a/flower_scattered_dirt",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 203
+   "uses": 119
   },
   {
    "kind": "texture",
@@ -737,10 +727,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete034",
+   "name": "pbr_Concrete030",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete034",
+   "url": "https://ambientcg.com/view?id=Concrete030",
    "source": "ambientCG",
    "attribution": false,
    "uses": 3
@@ -783,7 +773,7 @@
    "url": "https://ambientcg.com/view?id=MetalPlates015A",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 7
+   "uses": 5
   },
   {
    "kind": "texture",
@@ -1243,7 +1233,7 @@
    "url": "https://polyhaven.com/a/brown_planks_05",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 3
+   "uses": 2
   },
   {
    "kind": "texture",
@@ -1467,6 +1457,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Road008A",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Road008A",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 9
+  },
+  {
+   "kind": "texture",
    "name": "pbr_PaintedMetal014",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -1477,16 +1477,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_damp_beach_sand_02",
-   "author": "Dimitrios Savva",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/damp_beach_sand_02",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 9
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Metal022",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -1494,16 +1484,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 5
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Ground077",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Ground077",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
   },
   {
    "kind": "texture",
@@ -1673,7 +1653,7 @@
    "url": "https://kenney.nl/assets/furniture-kit",
    "source": "Kenney Furniture Kit",
    "attribution": false,
-   "uses": 65
+   "uses": 46
   },
   {
    "kind": "model",
@@ -1683,7 +1663,7 @@
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 275
+   "uses": 324
   },
   {
    "kind": "model",
@@ -1703,7 +1683,7 @@
    "url": "https://kenney.nl/assets/factory-kit",
    "source": "Kenney Factory Kit",
    "attribution": false,
-   "uses": 84
+   "uses": 37
   },
   {
    "kind": "model",
@@ -1747,6 +1727,16 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_bridgerailing",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/detail_fixtures.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 73
+  },
+  {
+   "kind": "model",
    "name": "lib/dm_carousel",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
@@ -1783,7 +1773,7 @@
    "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py",
    "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 50
+   "uses": 49
   },
   {
    "kind": "model",
@@ -1797,33 +1787,23 @@
   },
   {
    "kind": "model",
-   "name": "lib/dm_dockfenderhalf",
-   "author": "TMC (modelled for dot-map)",
-   "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py",
-   "source": "dot-map Blender model",
-   "attribution": false,
-   "uses": 72
-  },
-  {
-   "kind": "model",
    "name": "lib/dm_ductrun",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
    "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
    "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 28
+   "uses": 8
   },
   {
    "kind": "model",
    "name": "lib/dm_freightbutton",
-   "author": "Gamespice (modelled for map)",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/industrial.py",
-   "source": "Gamespice map Blender model",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py",
+   "source": "dot-map Blender model",
    "attribution": false,
-   "uses": 5
+   "uses": 2
   },
   {
    "kind": "model",
@@ -1834,6 +1814,36 @@
    "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 47
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_handrailrise",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/industrial.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_ibeam",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 17
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_latticetower",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 2
   },
   {
    "kind": "model",
@@ -1857,13 +1867,13 @@
   },
   {
    "kind": "model",
-   "name": "lib/dm_roofdish",
+   "name": "lib/dm_roofdome",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py",
    "source": "dot-map Blender model",
    "attribution": false,
-   "uses": 1
+   "uses": 13
   },
   {
    "kind": "model",
@@ -1874,6 +1884,26 @@
    "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_speakercluster",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_truss",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 10
   },
   {
    "kind": "model",
@@ -1893,47 +1923,17 @@
    "url": "https://github.com/gamespice-platform/map",
    "source": "Modelled for Gamespice map",
    "attribution": false,
-   "uses": 5
+   "uses": 7
   },
   {
    "kind": "model",
-   "name": "lib/kenney_building-kit_column-thin",
+   "name": "lib/kenney_building-kit_door-rotate-square-d",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/building-kit",
    "source": "Kenney Building Kit",
    "attribution": false,
-   "uses": 18
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_city-kit-commercial_building-e",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/city-kit-commercial",
-   "source": "Kenney City Kit - Commercial",
-   "attribution": false,
-   "uses": 20
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_city-kit-industrial_building-c",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/city-kit-industrial",
-   "source": "Kenney City Kit - Industrial",
-   "attribution": false,
-   "uses": 29
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_city-kit-suburban_fence-1x4",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/city-kit-suburban",
-   "source": "Kenney City Kit - Suburban",
-   "attribution": false,
-   "uses": 5
+   "uses": 1
   },
   {
    "kind": "model",
@@ -2057,16 +2057,6 @@
   },
   {
    "kind": "model",
-   "name": "lib/ph_modular_airduct_rectangular_01",
-   "author": "James Ray Cock",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/modular_airduct_rectangular_01",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
    "name": "lib/ph_modular_chainlink_fence",
    "author": "James Ray Cock, Amal Kumar",
    "licence": "CC0-1.0",
@@ -2083,7 +2073,7 @@
    "url": "https://polyhaven.com/a/namaqualand_boulder_03",
    "source": "Poly Haven",
    "attribution": false,
-   "uses": 36
+   "uses": 28
   },
   {
    "kind": "model",
@@ -2137,16 +2127,6 @@
   },
   {
    "kind": "model",
-   "name": "lib/ph_overhead_crane",
-   "author": "Timothy3D",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/overhead_crane",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
    "name": "lib/ph_pipe_wrench",
    "author": "Will Evarts",
    "licence": "CC0-1.0",
@@ -2193,7 +2173,7 @@
    "url": "https://polyhaven.com/a/rock_moss_set_01",
    "source": "Poly Haven",
    "attribution": false,
-   "uses": 64
+   "uses": 59
   },
   {
    "kind": "model",
@@ -2403,7 +2383,7 @@
    "url": "https://sketchfab.com/3d-models/none-d45218a3fab349e5b1de040f29e7b6f9",
    "source": "Sketchfab",
    "attribution": true,
-   "uses": 1053
+   "uses": 983
   },
   {
    "kind": "model",
@@ -2433,7 +2413,7 @@
    "url": "https://sketchfab.com/3d-models/none-57be2eaf4d6b4d2980bcee4ccb35f780",
    "source": "Sketchfab",
    "attribution": true,
-   "uses": 6
+   "uses": 4
   },
   {
    "kind": "model",

@@ -4,15 +4,15 @@
  "map": "gm_fork",
  "sha256": "a2e3dadf59e4c2aa62d38785a0f542b6eb612524ff0f6e6d70d34d61b51af52a",
  "textures": {
-  "looked_up": 293,
-  "drawn": 278,
+  "looked_up": 257,
+  "drawn": 259,
   "by_tier": {
-   "addon": 121,
-   "default": 172
+   "addon": 120,
+   "default": 137
   },
   "free_by_tier": {
-   "addon": 249,
-   "default": 29
+   "addon": 239,
+   "default": 20
   },
   "nearest_photo": [
    "brick/brickwall031b",
@@ -87,15 +87,6 @@
    "nature/cliff_path01a",
    "nature/forest_grass_01",
    "nature/gravelfloor001a",
-   "overlays/dirtartifacts02a",
-   "overlays/dirttrack01a",
-   "overlays/dirttrack01b",
-   "overlays/garagegroundmarking01f",
-   "overlays/gravelpath01a",
-   "overlays/gravelpath01b",
-   "overlays/road_dirt_01a",
-   "overlays/road_dirt_01b",
-   "overlays/sandtrack02b",
    "plaster/plasterceiling003a",
    "plaster/plasterwall003b",
    "plaster/plasterwall008",
@@ -134,11 +125,12 @@
   ]
  },
  "models": {
-  "looked_up": 342,
+  "looked_up": 311,
   "by_tier": {
-   "category": 70,
-   "default": 266,
-   "parts": 6
+   "category": 37,
+   "default": 255,
+   "parts": 6,
+   "skybox": 13
   }
  },
  "sounds": {
@@ -161,6 +153,21 @@
  "links": {
   "total": 30,
   "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1,
+   "input_unimplemented": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 4,
+   "ignored": 4,
+   "implemented": 28
+  }
  },
  "lists": {
   "textures_unmapped": [],
@@ -191,19 +198,12 @@
   "surfaces_opaque": 0,
   "gameplay_lost": 2
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1,
-   "input_unimplemented": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported"
-  },
-  "classes": {
-   "approximated": 4,
-   "ignored": 4,
-   "implemented": 28
-  }
+ "prop_fit": {
+  "unmeasured": 1806,
+  "rescaled": 1436,
+  "fits": 2392,
+  "boxed": 126,
+  "fitted_in": 256,
+  "rescaled_upright": 577
  }
 }

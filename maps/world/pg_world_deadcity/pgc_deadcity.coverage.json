@@ -191,5 +191,12 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "gameplay_lost": 2
+ },
+ "prop_fit": {
+  "boxed": 331,
+  "rescaled": 810,
+  "fits": 2267,
+  "fitted_in": 344,
+  "unmeasured": 1191
  }
 }
