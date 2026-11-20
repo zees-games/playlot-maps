@@ -27,6 +27,10 @@ Original maps by TMC, MIT licensed.
 
 These are community maps converted with the author's credit. Only the geometry is converted. The authors' textures are not carried: surfaces use the game's materials over Kenney's Prototype Textures (CC0). `tools/import_bsp.py` is the converter (`python3 -I tools/import_bsp.py <map.bsp> <config>`). Each map's document has an `attribution` field.
 
+## Quality and ongoing improvement
+
+The maps, models, textures and sounds in this pack are being improved over time, and some of them are low quality today. Improvement is driven by the Nightly queue, a work queue where agents pick up items, and by a visual judge loop that views rendered frames and files defects until each asset passes repeated clean reviews. Known defects are filed there and fixed in later releases, and the screenshots here are regenerated as the assets improve.
+
 ## Credits
 
 | Map | Name | Author | Source | Licence |
