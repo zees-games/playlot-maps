@@ -1571,7 +1571,7 @@ def nature():
 # a trampoline or a pad and a pad's seven metres of flight ahead of it clear. A hint that finds
 # nowhere is an error, never a toy left out, because a switch names its lamps by index.
 
-# What each toy stands in, in its own frame, as dot-props' DotPropBody._footprint (and the
+# What each toy stands in, in its own frame, as dot-props' GSPropBody._footprint (and the
 # loose toys' sizes): x0, x1, z0, z1, height.
 TOY_BOX = {
     "beach_ball": (-0.5, 0.5, -0.5, 0.5, 1.0), "football": (-0.15, 0.15, -0.15, 0.15, 0.3),
@@ -1845,7 +1845,7 @@ TOYS = {
     ],
 }
 
-# Each map's `ambient` block for DotAmbienceDirector: bed level (1.0 is the stock 0.35 bed) and whether
+# Each map's `ambient` block for GSAmbienceDirector: bed level (1.0 is the stock 0.35 bed) and whether
 # the birdsong bed may play. Interiors sit under 1, open ground over; only parks, woods and gardens
 # are lively. Maps that arrive from tools/import_bsp.py are patched by `--ambient`.
 AMBIENT = {

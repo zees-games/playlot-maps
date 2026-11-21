@@ -48,4 +48,4 @@ Read the family [CLAUDE.md](../../CLAUDE.md) and game-playlot's [CLAUDE.md](../g
 
 ## Ambience level
 
-Every document carries `"ambient": {"level": n, "lively": true}` for dot-audio's `DotAmbienceDirector` (`level` multiplies the stock bed, 1.0 unchanged; `lively` lets the birdsong bed play): the warehouse and small base under 1, towns and harbours over, and `lively` only on the nature, slopes and islands maps. The table is `AMBIENT` in `tools/build_maps.py`, which writes it into built documents; `tools/build_maps.py --ambient` patches the imported ones, so a new map adds a row there.
+Every document carries `"ambient": {"level": n, "lively": true}` for dot-audio's `GSAmbienceDirector` (`level` multiplies the stock bed, 1.0 unchanged; `lively` lets the birdsong bed play): the warehouse and small base under 1, towns and harbours over, and `lively` only on the nature, slopes and islands maps. The table is `AMBIENT` in `tools/build_maps.py`, which writes it into built documents; `tools/build_maps.py --ambient` patches the imported ones, so a new map adds a row there.

@@ -43,7 +43,7 @@ shutil.copy(os.path.join(repo, rel), os.path.join(out, rel))
 with open(os.path.join(repo, rel), encoding="utf-8") as f:
     world = (json.load(f).get("world") or {}).get("pack")
 if world:
-    # the converted world pack the map is drawn from: maps/world/<pack>/ beside the map document (DotMapDrawnWorld)
+    # the converted world pack the map is drawn from: maps/world/<pack>/ beside the map document (GSMapDrawnWorld)
     if not isinstance(world, str) or "/" in world or world.startswith("."):
         sys.exit("%s: world pack %r is not a folder name" % (mid, world))
     src = os.path.join(repo, "maps", "world", world)

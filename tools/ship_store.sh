@@ -10,7 +10,7 @@
 # STORE_ORIGIN already serves. Dev: STORE_SITE=https://tmcdev.net STORE_ORIGIN=https://dev.dotgames.org with a dev
 # creator token; prod: the production site with gamemann's prod creator token (the owner's). The site signs each manifest.
 # A version the site once FAILED is never taken again: list it in tools/store_burnt.txt and the slice moves to a new version.
-# Then publish the packs (tools/publish_maps.sh adds --depends <store_pack>; DotMapStore.ensure fetches it otherwise).
+# Then publish the packs (tools/publish_maps.sh adds --depends <store_pack>; GSMapStore.ensure fetches it otherwise).
 set -o pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
 BSP="${GS_BSP_PATH:-${DOTBSP_PATH:-$HERE/../../dot-map-convert}}"
