@@ -8,7 +8,7 @@ The built-in maps are `_build()` scripts. A map delivered in a pack of its own i
 
 ## How the game reads them
 
-`maps/` is linked into game-playlot by dot-bootstrap (`game-playlot/.gitignore`: `# bootstrap-link: playlot-maps/maps ci` → `/maps/custom`). `Playlot.map_catalogue()` adds every `.json` there as a `GSMapDef` built by the shared `res://maps/pg_data.tscn`, with the document's path in `meta.doc`; a document that does not read is left out with a WARN, and an id the catalogue already has is never replaced.
+`maps/` is linked into game-playlot by gs-bootstrap (`game-playlot/.gitignore`: `# bootstrap-link: playlot-maps/maps ci` → `/maps/custom`). `Playlot.map_catalogue()` adds every `.json` there as a `GSMapDef` built by the shared `res://maps/pg_data.tscn`, with the document's path in `meta.doc`; a document that does not read is left out with a WARN, and an id the catalogue already has is never replaced.
 
 ## The builder
 
@@ -22,7 +22,7 @@ The built-in maps are `_build()` scripts. A map delivered in a pack of its own i
 
 ## Materials
 
-A box may name a `material`: one of dot-physics' standard surfaces, drawn in its own look unless it names a colour (a see-through material keeps its transparency in a mapper's colour). Every map uses them. How each behaves is game-playlot's: [Map materials](../../game-playlot/docs/maps.md#map-materials).
+A box may name a `material`: one of gs-physics' standard surfaces, drawn in its own look unless it names a colour (a see-through material keeps its transparency in a mapper's colour). Every map uses them. How each behaves is game-playlot's: [Map materials](../../game-playlot/docs/maps.md#map-materials).
 
 - Water, slime and lava are liquid volumes and foliage is a volume, none with a collider. Glass and thin ice are panes that break.
 - **A movement surface is part of a measured route.** Concrete, metal, wood and rock have no drag and move a player exactly as a box with no material did; grass, dirt, sand and snow slow a run (0.955, 0.94, 0.82, 0.88 of top speed). Nothing a jump was measured on may be given one of the slow ones.
@@ -36,7 +36,7 @@ A document may list `props` (catalogue ids, frozen unless `loose`) and `wires` b
 
 ## Toys
 
-Each map's `toys` are dot-props' toy placements (`{toy, at, yaw, links?}`), which game-playlot builds on both ends in the document's order; a switch's `links` are indices into that list. The builder's `TOYS` table says roughly where each map wants each toy (`toy(id, x, z, y)`, themed per map), and `settle` moves it to the nearest spot within 14 m that is floored flat under its whole footprint (never on water, lava, slime, foliage or thin ice), half a metre clear of every solid box, prop and toy already placed, with five metres of air over a trampoline or pad and a pad's flight clear. `exact=True` keeps a set laid out together where it is (`pins()`, a rack of six). A hint that settles nowhere stops the build rather than leaving a toy out, because a later switch would then name the wrong lamps. game-playlot's `headless_playlot` (`_test_every_maps_toys_stand_clear`) loads every map and checks each toy is built, inside nothing, and still where it was put two seconds later.
+Each map's `toys` are gs-props' toy placements (`{toy, at, yaw, links?}`), which game-playlot builds on both ends in the document's order; a switch's `links` are indices into that list. The builder's `TOYS` table says roughly where each map wants each toy (`toy(id, x, z, y)`, themed per map), and `settle` moves it to the nearest spot within 14 m that is floored flat under its whole footprint (never on water, lava, slime, foliage or thin ice), half a metre clear of every solid box, prop and toy already placed, with five metres of air over a trampoline or pad and a pad's flight clear. `exact=True` keeps a set laid out together where it is (`pins()`, a rack of six). A hint that settles nowhere stops the build rather than leaving a toy out, because a later switch would then name the wrong lamps. game-playlot's `headless_playlot` (`_test_every_maps_toys_stand_clear`) loads every map and checks each toy is built, inside nothing, and still where it was put two seconds later.
 
 ## Checking a map
 
@@ -47,16 +47,16 @@ Each map's `toys` are dot-props' toy placements (`{toy, at, yaw, links?}`), whic
 
 ## Delivery
 
-A client builds the map too, so this is a **`dependencies`** pack, not `server_dependencies`: every client fetches it in the same content sync as the game. Both ends then add `<mount prefix>/maps`: the server from the game manager's dependency keys (`PlaylotModule._add_delivered_maps`), the client from `GSClientLink.content_extra` (`PlaylotClient`). dot-server-deploy has `content/playground_maps/pack.json` (`tmc/playground_maps`, excluding `tools` and `.github`) (the pack and its id keep the old Playlot name until it is republished) and `content/playlot/game.yml` names it under `dependencies`. The release workflow builds the pack from a `v*` tag.
+A client builds the map too, so this is a **`dependencies`** pack, not `server_dependencies`: every client fetches it in the same content sync as the game. Both ends then add `<mount prefix>/maps`: the server from the game manager's dependency keys (`PlaylotModule._add_delivered_maps`), the client from `GSClientLink.content_extra` (`PlaylotClient`). gs-server-deploy has `content/playground_maps/pack.json` (`tmc/playground_maps`, excluding `tools` and `.github`) (the pack and its id keep the old Playlot name until it is republished) and `content/playlot/game.yml` names it under `dependencies`. The release workflow builds the pack from a `v*` tag.
 
 ## Store slices
 
-A converted world (`maps/world/<pack>/<id>.json`) draws library models and PBR sets that live in `maps/world/.stores/` (`licence.model_store`, `licence.pbr_store`). That folder is hidden, so no pack ever carries it: a web client drew every library model as a box or a lollipop tree and every PBR set as its 64 px fallback (nightly `playlot-store-slices`, 2026-11-16). The art ships the way zombie-zone-maps ships it, as dot-cloud **store slices**:
+A converted world (`maps/world/<pack>/<id>.json`) draws library models and PBR sets that live in `maps/world/.stores/` (`licence.model_store`, `licence.pbr_store`). That folder is hidden, so no pack ever carries it: a web client drew every library model as a box or a lollipop tree and every PBR set as its 64 px fallback (nightly `playlot-store-slices`, 2026-11-16). The art ships the way zombie-zone-maps ships it, as gs-cloud **store slices**:
 
-- `tools/ship_store.sh` runs dot-map-convert's `bsp.py storepack` over every world `tools/store_worlds.py` lists (`SHIP_IDS="pgc_fork ..."` for some): it builds the slices (VRAM-compressed, maps that draw the same items share a `store-shared-<hash>` slice), publishes them into `.stores/dist` and stamps each manifest with `licence.store_pack` (`{id, version, shared}`). It needs the engine and memory: `../gpu.sh py --stage ../dot-cloud -- bash tools/ship_store.sh`. Commit the stamped manifests.
+- `tools/ship_store.sh` runs gs-map-convert's `bsp.py storepack` over every world `tools/store_worlds.py` lists (`SHIP_IDS="pgc_fork ..."` for some): it builds the slices (VRAM-compressed, maps that draw the same items share a `store-shared-<hash>` slice), publishes them into `.stores/dist` and stamps each manifest with `licence.store_pack` (`{id, version, shared}`). It needs the engine and memory: `../gpu.sh py --stage ../gs-cloud -- bash tools/ship_store.sh`. Commit the stamped manifests.
 - With `STORE_SITE` and `STORE_TOKEN_FILE` (a creator token of gamemann) it then uploads the slices dependencies first (`tools/upload_store.py`), skipping what `STORE_ORIGIN` already serves. Dev: `STORE_SITE=https://tmcdev.net STORE_ORIGIN=https://dev.dotgames.org`. The production upload is the owner's.
 - `tools/check_store.sh` (`DIST=dir`, or `ORIGIN=url`) checks every stamped slice is published and complete; `tools/check_store_stamps.py` (CI) fails on a world with art and no stamp.
-- `tools/publish_maps.sh` gives each map pack `--depends <store_pack id@version>`, so the platform mounts the slices with the map; for the whole `playlot-maps` pack (fourteen worlds) the game's `GSMapStore.ensure` (dot-map, through `pg_data.load_world`) fetches each world's slice when it loads.
+- `tools/publish_maps.sh` gives each map pack `--depends <store_pack id@version>`, so the platform mounts the slices with the map; for the whole `playlot-maps` pack (fourteen worlds) the game's `GSMapStore.ensure` (gs-map, through `pg_data.load_world`) fetches each world's slice when it loads.
 - A slice version the site once FAILED is never taken again: add `id@version` to `tools/store_burnt.txt` and run `ship_store.sh` again.
 - Check a delivery from frames: in game-playlot, `tools/screenshot.sh <map> --doc <a copy without .stores> --cloud-store <origin>/content,<pubkey>`.
 

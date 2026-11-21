@@ -4,7 +4,7 @@
 # ones, which is what a player's client reads (dev: ORIGIN=https://dev.dotgames.org).
 #   [ORIGIN=url] [DIST=dir] tools/check_store.sh [map id ...]
 HERE="$(cd "$(dirname "$0")" && pwd)"
-BSP="${GS_BSP_PATH:-${DOTBSP_PATH:-$HERE/../../dot-map-convert}}"
+BSP="${GS_BSP_PATH:-${GSBSP_PATH:-$HERE/../../gs-map-convert}}"
 packs=()
 while IFS=$'\t' read -r id manifest; do packs+=("$manifest"); done < <(python3 -I "$HERE/store_worlds.py" "$@") || exit
 where=(--dist "${DIST:-$HERE/../.stores/dist}"); [ -n "${ORIGIN:-}" ] && { o="${ORIGIN%/}"; where=(--origin "${o%/content}"); }

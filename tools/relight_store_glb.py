@@ -1,4 +1,4 @@
-"""Relight the Kenney/Sketchfab store glbs that draw flat or cyan: drop KHR_materials_unlit, metallic 0, roughness 0.9 (same as dot-map 6aa39fc)."""
+"""Relight the Kenney/Sketchfab store glbs that draw flat or cyan: drop KHR_materials_unlit, metallic 0, roughness 0.9 (same as gs-map 6aa39fc)."""
 import json,struct,sys
 NATURAL={'leafsDark':[0.06,0.17,0.04,1],'grass':[0.069,0.195,0.03,1],'dirt':[0.18,0.12,0.07,1],'stone':[0.3,0.3,0.28,1],
  'stoneDark':[0.26,0.25,0.23,1],'wood':[0.25,0.14,0.07,1],'woodDark':[0.2,0.11,0.06,1],'woodBarkDark':[0.16,0.09,0.05,1]}

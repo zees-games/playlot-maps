@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "gm_smallbase",
  "sha256": "6c593d99af7069669884c041bf9725e27646f63448ec5e4fef6eb57bb277d8d2",

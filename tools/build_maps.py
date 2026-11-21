@@ -1098,7 +1098,7 @@ def harbour():
     boxes = [box((0, basin - 0.5, 0), (size, 1, size), "#2b3a40", material="sand")]
     boxes += walls(size, 10.0, basin, "#6d7480", "concrete")
     # The water: the whole basin, 3.4 m deep, its surface 0.6 m under the quay's edge. Swum in
-    # (dot-player-controller's swim mode), floated on (props lighter than it), climbed out of
+    # (gs-player-controller's swim mode), floated on (props lighter than it), climbed out of
     # up the slipways or with a jump at a pier's ladderless edge (0.6 m, under a jump).
     boxes.append(mat("water", (0, basin + 1.7, -45.0), (size - 2.0, 3.4, 110.0)))
     declared = wall_tops(size, 6.0, "the harbour walls, 6 m over the quay")
@@ -1563,7 +1563,7 @@ def nature():
 
 # --- Toys ------------------------------------------------------------------------------------
 #
-# dot-props' toys (game-playlot builds them from the document's `toys`, both ends, in this
+# gs-props' toys (game-playlot builds them from the document's `toys`, both ends, in this
 # order: the order is how a client pairs each with the server's). A map says roughly where it
 # wants each one, `(id, x, z)` near a floor at about `y`, and `settle` moves it to the nearest
 # spot within 14 m that is floored flat under its whole footprint (no liquid, no foliage), clear
@@ -1571,7 +1571,7 @@ def nature():
 # a trampoline or a pad and a pad's seven metres of flight ahead of it clear. A hint that finds
 # nowhere is an error, never a toy left out, because a switch names its lamps by index.
 
-# What each toy stands in, in its own frame, as dot-props' GSPropBody._footprint (and the
+# What each toy stands in, in its own frame, as gs-props' GSPropBody._footprint (and the
 # loose toys' sizes): x0, x1, z0, z1, height.
 TOY_BOX = {
     "beach_ball": (-0.5, 0.5, -0.5, 0.5, 1.0), "football": (-0.15, 0.15, -0.15, 0.15, 0.3),

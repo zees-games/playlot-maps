@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "ttt_rooftops_2016_v1",
  "sha256": "244f3817acae191774882fb2e2937b6ba73b0645e1e36de8fc395608a78827fd",

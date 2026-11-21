@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "gm_york",
  "sha256": "d8b642f327bcfc2ee2418e1f037ef0ad2583c5fdcff511a8320a2c0daaf7611f",

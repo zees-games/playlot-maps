@@ -1,5 +1,5 @@
 #!/bin/bash
-# Re-converts every imported map from its source BSP with the family's converter (dot-map-convert's playlot-maps
+# Re-converts every imported map from its source BSP with the family's converter (gs-map-convert's playlot-maps
 # adapter, through tools/import_bsp.py). Never hand-edit a converted document: change the converter or its tables.
 #   tools/convert_all.sh [CONFIG_NAME...]      (no name = every row of tools/convert_sources.tsv)
 # gm_construct_small has no row: its source BSP is in neither ~/projects/mapsrc nor ~/godot/inspirations, so
@@ -22,4 +22,4 @@ done < "$HERE/tools/convert_sources.tsv"
 [ $fail -eq 0 ] || exit 1
 # The importer does not write the ambience row; build_maps.py --ambient patches it in (a re-import drops it).
 python3 -P "$HERE/tools/build_maps.py" --ambient
-GS_MAP_CONVERT_PATH="${GS_MAP_CONVERT_PATH:-${DOT_MAP_CONVERT_PATH:-${DOTBSP_PATH:-$HERE/../dot-map-convert}}}" python3 -P "$HERE/tools/build_provides.py"
+GS_MAP_CONVERT_PATH="${GS_MAP_CONVERT_PATH:-${GSBSP_PATH:-$HERE/../gs-map-convert}}" python3 -P "$HERE/tools/build_provides.py"

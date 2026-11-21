@@ -1798,10 +1798,10 @@
   {
    "kind": "model",
    "name": "lib/dm_freightbutton",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py",
-   "source": "dot-map Blender model",
+   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/industrial.py",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 2
   },
@@ -1838,10 +1838,10 @@
   {
    "kind": "model",
    "name": "lib/dm_latticetower",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py",
-   "source": "dot-map Blender model",
+   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/harbour_rooftop.py",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 2
   },
@@ -1868,10 +1868,10 @@
   {
    "kind": "model",
    "name": "lib/dm_roofdome",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
    "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/harbour_rooftop.py",
-   "source": "dot-map Blender model",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 13
   },
@@ -1888,20 +1888,20 @@
   {
    "kind": "model",
    "name": "lib/dm_speakercluster",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py",
-   "source": "dot-map Blender model",
+   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/scenery.py",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "model",
    "name": "lib/dm_truss",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py",
-   "source": "dot-map Blender model",
+   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/clutter.py",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 10
   },

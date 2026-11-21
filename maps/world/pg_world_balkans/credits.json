@@ -518,10 +518,10 @@
   {
    "kind": "model",
    "name": "lib/dm_cablespool",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py",
-   "source": "dot-map Blender model",
+   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/industrial.py",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 19
   },
@@ -608,20 +608,20 @@
   {
    "kind": "model",
    "name": "lib/dm_pipecluster",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py",
-   "source": "dot-map Blender model",
+   "url": "https://github.com/modcommunity/gs-map/blob/main/tools/models/building_props.py",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 50
   },
   {
    "kind": "model",
    "name": "lib/dm_roofdish",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py",
-   "source": "dot-map Blender model",
+   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/scenery.py",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 4
   },
@@ -638,10 +638,10 @@
   {
    "kind": "model",
    "name": "lib/dm_truss",
-   "author": "TMC (modelled for dot-map)",
+   "author": "TMC (modelled for gs-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py",
-   "source": "dot-map Blender model",
+   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/clutter.py",
+   "source": "gs-map Blender model",
    "attribution": false,
    "uses": 60
   },

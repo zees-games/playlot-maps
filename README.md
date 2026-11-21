@@ -4,7 +4,7 @@ Custom sandbox maps for [Playlot](https://github.com/zees-games/game-playlot), a
 
 ## Using it
 
-The game picks the maps up through a link (`maps/custom` in the game, made by dot-bootstrap) or, when delivered as a pack, through the game's `dependencies`. To change one of our own maps, edit `tools/build_maps.py` and run it. The format is defined and validated by the game's `maps/pg_data.gd`. See `docs/maps.md` and `docs/building.md` here for details.
+The game picks the maps up through a link (`maps/custom` in the game, made by gs-bootstrap) or, when delivered as a pack, through the game's `dependencies`. To change one of our own maps, edit `tools/build_maps.py` and run it. The format is defined and validated by the game's `maps/pg_data.gd`. See `docs/maps.md` and `docs/building.md` here for details.
 
 ## Our maps
 

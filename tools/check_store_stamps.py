@@ -1,4 +1,4 @@
-"""Every converted world that draws library models or PBR sets names the dot-cloud slice that holds them
+"""Every converted world that draws library models or PBR sets names the gs-cloud slice that holds them
 (licence.store_pack, stamped by tools/ship_store.sh). Without the stamp a web client, which never gets maps/world/.stores
 (a hidden folder, never published), draws each library model as a box or a lollipop tree and each PBR set as its 64 px
 fallback, and tools/publish_maps.sh has no --depends to give the map's pack.

@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "gm_mountainresort",
  "sha256": "e65ea7f4889c63d4e0e4a237768527d5e7efef2b13edf97b896b74ac52d89bda",

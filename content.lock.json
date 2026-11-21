@@ -4,7 +4,7 @@
 	"origin": "https://dev.dotgames.org/content",
 	"packs": [
 		{
-			"id": "gamemann/game-playground-maps",
+			"id": "gamemann/playlot-maps",
 			"into": "",
 			"kind": "pack",
 			"manifest_sha256": "8e55acc2ccfef5bac8fe0392441ddefb334fee388a3bfcddca643eb78c7e4764",

@@ -7,11 +7,11 @@
 # one-entry provides.json.
 # --member-of is required: a bare publish of a map pack creates a Workshop page of its own. The first publish of a map is
 # 1.0.0, later ones --bump patch; maps.lock.json pins them (content.lock.json stays the whole pack's, which bootstrap fetches).
-# A converted world's pack names the dot-cloud slice that holds its library models and PBR sets (licence.store_pack, which
+# A converted world's pack names the gs-cloud slice that holds its library models and PBR sets (licence.store_pack, which
 # tools/ship_store.sh stamps and uploads) with --depends id@version, so a web client, which has no maps/world/.stores (a
 # hidden folder, never published), gets the real models and textures, not boxes and 64 px fallbacks. An unstamped world
 # stops the publish: run tools/ship_store.sh first.
-# GS_CLOUD overrides the dot-cloud checkout (default: the sibling ../dot-cloud).
+# GS_CLOUD overrides the gs-cloud checkout (default: the sibling ../gs-cloud).
 set -euo pipefail
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 IDS=(); while [ $# -gt 0 ] && [ "$1" != "--" ]; do IDS+=("$1"); shift; done
@@ -95,7 +95,7 @@ PY
     [ -f "$LOCK" ] && grep -q "\"gamemann/$id\"" "$LOCK" && VER=(--bump patch)
     # The site allows a few claims a minute: on 429 wait and try again (nothing was claimed).
     for try in 1 2 3 4 5 6; do
-        rc=0; out="$("${GS_CLOUD:-${DOT_CLOUD:-$HERE/../dot-cloud}}/tools/publish_pack.sh" publish --source "$STAGE/$id" --id "$id" "${VER[@]}" \
+        rc=0; out="$("${GS_CLOUD:-$HERE/../gs-cloud}/tools/publish_pack.sh" publish --source "$STAGE/$id" --id "$id" "${VER[@]}" \
             --no-import --lock "$LOCK" "${DEPS[@]}" "${FLAGS[@]}" 2>&1)" || rc=$?
         printf '%s\n' "$out"
         [ $rc -ne 0 ] && grep -q rate_limited <<<"$out" && [ $try -lt 6 ] && { sleep 40; continue; }

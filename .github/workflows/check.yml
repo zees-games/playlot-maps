@@ -1,7 +1,7 @@
 # Every document is what tools/build_maps.py writes. A hand edit to a .json the builder knows about
 # would be overwritten by the next build with nothing to say so; this says so first.
 #
-# Playing every map is game-playlot's job (its playlot_client suite in dot-server-deploy loads them),
+# Playing every map is game-playlot's job (its playlot_client suite in gs-server-deploy loads them),
 # because it needs the game; this repository's own check is only that its documents and its builder agree.
 name: Check
 
@@ -19,14 +19,14 @@ jobs:
             - uses: actions/checkout@v4
               with:
                   repository: gamespice-platform/map-convert
-                  path: dot-map-convert-src
+                  path: gs-map-convert-src
             - uses: actions/setup-python@v5
               with:
                   python-version: '3.12'
             - run: python3 tools/build_maps.py --check
             - run: python3 tools/build_provides.py --check
               env:
-                  DOT_MAP_CONVERT_PATH: dot-map-convert-src
+                  GS_MAP_CONVERT_PATH: gs-map-convert-src
             - run: python3 -I tools/check_store_stamps.py
             # Every converted map is the author's whole world and its spawn stands on it (a cropped or
             # floorless document is what a player saw as a few boxes over the sea on pgc_fork).
